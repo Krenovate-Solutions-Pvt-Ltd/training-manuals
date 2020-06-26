@@ -12,3 +12,5 @@ Add the SSH key to your GitHub account.
 Further reading
 "About SSH"
 "Working with SSH key passphrases"
+
+-- THis is a new line inserted by Manjeet 
