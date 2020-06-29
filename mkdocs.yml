@@ -1,11 +1,16 @@
 site_name: Training Manual
 nav:
-  - Home: 'index.md'
+    - Home: 'index.md'
+    - 'User Guide': 
+        - 'Writing your docs': 'writing-your-docs.md'
+        - 'Styling your docs': 'styling-your-docs.md'
+    - About:
+        - 'License': 'license.md'
+        - 'Release Notes': 'release-notes.md'
 theme:
   name: material
   features:
     - instant
-    - tabs
   font:
     text: Inter
     code: Source Code Pro
