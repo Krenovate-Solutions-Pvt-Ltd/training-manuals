@@ -1,12 +1,15 @@
 site_name: Training Manual
 nav:
-    - Home: 'index.md'
-    - 'User Guide': 
-        - 'Writing your docs': 'writing-your-docs.md'
-        - 'Styling your docs': 'styling-your-docs.md'
-    - About:
-        - 'License': 'license.md'
-        - 'Release Notes': 'release-notes.md'
+  - Daily Work Apps:
+    -  Introduction: 'Introduction.md'
+    -  Gmail: 'Gmail.md'
+    -  Jira: 'Jira.md'
+    -  Hubstaff Web: 'Hubstaff Web.md'
+    -  Hubstaff Recorder App: 'Hubstaff Recorder App.md'
+    -  Google Meet: 'Google Meet.md'
+    -  Visual Studio Code: 'Visual Studio Code.md'
+    -  GitHub: 'GitHub.md'
+    -  Desktop Github: 'Desktop Github.md'
 theme:
   name: material
   features:
