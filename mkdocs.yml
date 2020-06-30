@@ -1,15 +1,15 @@
 site_name: Training Manual
 nav:
   - Daily Work Apps:
-    -  Introduction: 'Introduction.md'
-    -  Gmail: 'Gmail.md'
-    -  Jira: 'Jira.md'
-    -  Hubstaff Web: 'Hubstaff Web.md'
-    -  Hubstaff Recorder App: 'Hubstaff Recorder App.md'
-    -  Google Meet: 'Google Meet.md'
-    -  Visual Studio Code: 'Visual Studio Code.md'
-    -  GitHub: 'GitHub.md'
-    -  Desktop Github: 'Desktop Github.md'
+    -  Introduction: 'Daily-Apps/Introduction.md'
+    -  Gmail: 'Daily-Apps/Gmail.md'
+    -  Jira: 'Daily-Apps/Jira.md'
+    -  Hubstaff Web: 'Daily-Apps/Hubstaff Web.md'
+    -  Hubstaff Recorder App: 'Daily-Apps/Hubstaff Recorder App.md'
+    -  Google Meet: 'Daily-Apps/Google Meet.md'
+    -  Visual Studio Code: 'Daily-Apps/Visual Studio Code.md'
+    -  GitHub: 'Daily-Apps/GitHub.md'
+    -  Desktop Github: 'Daily-Apps/Desktop Github.md'
 theme:
   name: material
   features:
