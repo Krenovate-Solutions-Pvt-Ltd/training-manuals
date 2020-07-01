@@ -1,29 +1,30 @@
-### **Jira**
+## **Jira**
 
 JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. 
 The basic use of this tool is to plan, track, and release software.
 
-#### *Account Creation*
+### **_Account Creation_**
 
 Your account on Jira will be created by the HR department. And you will get a link for logging into your account on your official email ID. 
 
-![Jira Invite](../images/Initial-images/Jira/Jirainvitemail.png)
+![Jira Invite](../images/Initial-images/Jira/Jirainvitemail.jpg)
 
 Create your login credentials and remember the same for unnecessary hassle. 
 Once you create your account, please contact your manager to assign you to relevant projects.
 
-![jira active](../images/Initial-images/Jira/Jiraactivate.png)
+![jira active](../images/Initial-images/Jira/Jiraactivate.jpg)
 
-#### *Logging In*
+### **_Logging In_**
 
 To log in, please visit - krenovate.atlassian.net and click on the sign in button. Please use your credentials to log in. 
 
-![Jiralogin](../images/Initial-images/Jira/Jira%20login.png)
+![Jiralogin](../images/Initial-images/Jira/Jira%20login.jpg)
+
 For free tutorial visit:
 
 https://www.atlassian.com/software/jira/guides
 
-#### *Projects*
+### **_Projects_**
 
 After logging in, you will see your dashboard. And on your dashboard, you will see the projects of which you are a part. If you do not see any projects on your dashboard, please contact your manager immediately or the HR.
 

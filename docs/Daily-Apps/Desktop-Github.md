@@ -10,7 +10,7 @@ Follow the below steps to Install and activate the desktop version:
    
     https://desktop.github.com/
 
-    ![GitHub Desktop](../images/Initial-images/Desktop%20Github/GitHub%20Desktop.png)
+    ![GitHub Desktop](../images/Initial-images/Desktop-Github/GitHub-Desktop.jpg)
 
 2.  Step by step guide to set up and use Github Desktop can be reached at the below link:
 

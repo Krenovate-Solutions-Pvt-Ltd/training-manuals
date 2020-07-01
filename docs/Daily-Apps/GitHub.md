@@ -1,7 +1,6 @@
-### **Github**
+## **Github**
 
-![GitHub](../images/Initial-images/GitHub/Github.png)
-
+### **_Introduction_**
 
 GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way.
 
@@ -16,20 +15,20 @@ GitHub is used as a version control tool. Version controlling your document allo
 5.  Revert changes, moving ‘backwards’ through your history to previous versions of your document.
 
 
-#### *Account Creation*
+#### **_Account Creation_**
 
 Follow the below steps:
 
-1. Go to -> www.github.com
-2.  Sign up with company email
+1.   Go to -> www.github.com
+2.   Sign up with company email
 
-![Github Signup](../images/Initial-images/GitHub/Github%20Signup.png)
+![Github Signup](../images/Initial-images/GitHub/Github%20Signup.jpg)
 
-1.  Verify your email to complete signup
+3.   Verify your email to complete signup
 
-![Github Verify](../images/Initial-images/GitHub/Github%20verify.png)
+![Github Verify](../images/Initial-images/GitHub/Github%20verify.jpg)
 
-2.  Once the account is ready, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
+4.   Once the account is ready, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
  
      https://lab.github.com/githubtraining/introduction-to-github
 
