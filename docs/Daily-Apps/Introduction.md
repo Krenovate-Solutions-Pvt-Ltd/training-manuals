@@ -12,8 +12,9 @@ Please feel free to share feedback for improving this manual. You can write your
 The Below Apps are used for the day to day functioning of our organisation:
 
 
-*   [Gmail](docs\Daily-Apps\Gmail.md)
+*   [GSuite](GSuite.md)
 *   [Jira](Jira.md)
+*   [Jira Service Desk](Jira-Service-Desk.md)
 *   [Hubstaff Web](Hubstaff-Web.md)
 *   [Hubstaff Recorder App](Hubstaff-Recorder-App.md)
 *   [Google Meet](Google-Meet.md)
