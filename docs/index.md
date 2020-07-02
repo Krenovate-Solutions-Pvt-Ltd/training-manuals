@@ -18,7 +18,7 @@ The purpose of having training manuals is:
 
 Below you can find few Training Manuals available to help your journey with Krenovate:
 
-*   [Daily Apps Manual](docs\Daily-Apps)
+*   [Daily Apps Manual](Daily-Apps/Introduction.md)
 *   Website
 *   Digital Marketing
 
