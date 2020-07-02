@@ -6,23 +6,21 @@ G Suite is a suite of cloud computing, productivity and collaboration tools, sof
 
 Here, at Krenovate, we use the G Suite - business version of Gmail for its varied features and apps availability, which supports the day-to-day functions easy and convenient.
 
-
 G Suite provides access to a core set of apps that includes:
 
-*   Gmail
-*   Google Drive
-*   Google Calender
-*   Google Docs
-*   Google Sheets
-*   Google Slides
-*   Google Forms
-*   Google Meet
-*   Google Hangouts
-*   Google+
+* Gmail
+* Google Drive
+* Google Calender
+* Google Docs
+* Google Sheets
+* Google Slides
+* Google Forms
+* Google Meet
+* Google Hangouts
+* Google+
   
 ______
 ______
-
 
 ## **Gmail**
 
@@ -32,12 +30,12 @@ Gmail is a web-based email service, developed by Google. It has become popular f
 
 As part of G Suite, Gmail comes with additional features designed for business use, including:
 
-*   Email addresses with the customer's domain name (@yourcompany.com)
-*   99.9% guaranteed uptime with zero scheduled downtime for maintenance
-*   30GB of storage space
-*   24/7 phone and email support
-*   Synchronization compatibility with Microsoft Outlook and other email providers
-*   Support for add-ons that integrate third-party apps purchased from the G Suite Marketplace with Gmail
+* Email addresses with the customer's domain name (@yourcompany.com)
+* 99.9% guaranteed uptime with zero scheduled downtime for maintenance
+* 30GB of storage space
+* 24/7 phone and email support
+* Synchronization compatibility with Microsoft Outlook and other email providers
+* Support for add-ons that integrate third-party apps purchased from the G Suite Marketplace with Gmail
 
 Gmail is the foremost App that is used for all official correspondence at Krenovate. 
 
@@ -46,7 +44,6 @@ Once the agreement is accepted by the freelancer, the official email id would be
 ### **_Account Creation_**
 
 A new email account is created by the Admin. The link would be sent to your personal email id. 
-
 
 ### **_Account Activation_**
 
@@ -69,55 +66,43 @@ Happy Emailing !!
 
 When you login to your business email with your credentials, you reach the below dashboard:
 
-<<<<<<< Updated upstream
 ![GSuite Dashboard](../images/Initial-images/Gsuite/Gsuitedashboard.jpg)
-=======
+
 ![GSuite Dashboard](../images/Initial-images/Gsuite/gsuitedahboard.jpg)
->>>>>>> Stashed changes
 
 This dashboard gives access to all the apps used at Krenovate.
 
-
 ### **_FAQ's_**
 
-<<<<<<< Updated upstream
 For any query/help, refer to below links:
 
-1.  Popular Articles:
-    
-    https://support.google.com/mail/?hl=en#topic=7065107
+1. Popular Articles :  
+   <https://support.google.com/mail/?hl=en#topic=7065107>
 
-2.  Manage your Gmail account:
-    
-    https://support.google.com/mail/?hl=en#topic=3394212
-    
-3.  Read & organize emails:
-    
-    https://support.google.com/mail/?hl=en#topic=3394150
+1. Manage your Gmail account :  
+   <https://support.google.com/mail/?hl=en#topic=3394212>
 
-4.  Settings:
-   
-    https://support.google.com/mail/?hl=en#topic=3394219
+1. Read & organize emails :  
+   <https://support.google.com/mail/?hl=en#topic=3394150>
 
-5.  Send emails:
-    
-    https://support.google.com/mail/?hl=en#topic=3394151
+1. Settings :  
+   <https://support.google.com/mail/?hl=en#topic=3394219>
 
-6.  Gmail App:
-    
-    https://support.google.com/mail/?hl=en#topic=2451730
+1. Send emails :  
+   <https://support.google.com/mail/?hl=en#topic=3394151>
 
-7.  Use video calls in Gmail:
-    
-    https://support.google.com/mail/?hl=en#topic=9824892
+1. Gmail App :  
+   <https://support.google.com/mail/?hl=en#topic=2451730>
 
-8.  Fix a problem:
-    
-    https://support.google.com/mail/?hl=en#topic=3394215
+1. Use video calls in Gmail :  
+   <https://support.google.com/mail/?hl=en#topic=9824892>
+
+1. Fix a problem :  
+   <https://support.google.com/mail/?hl=en#topic=3394215>
     
 _____
 _____
-=======
+
 1.  Are Gmail addresses case sensitive?
 
     No, the complete Gmail address is case insensitive.
@@ -215,7 +200,6 @@ ____
 
 
 
->>>>>>> Stashed changes
 
 ## **Google Drive**
 
