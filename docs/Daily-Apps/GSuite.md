@@ -117,11 +117,13 @@ You can sync files between any device and the cloud with apps for Microsoft Wind
 
 Few ways to reach the Google Drive:
 
-1.  Go to drive.google.com-> My-Drive
+*  From browser/computer:
+
+   *  Go to drive.google.com-> My-Drive
 
 ![drive](../images/Initial-images/Gsuite/drive.jpg)
 
-2.  Follow the image below:
+*  From Gmail
 
 ![Google Drive](../images/Initial-images/Gsuite/Googledrive.jpg)
 
@@ -215,15 +217,17 @@ Some additional features of G Suite Google Calender:
 
 Few ways to reach your calendar:
 
-1.  Go to-> calender.google.com
+From browser/computer:
+
+*   Go to-> calender.google.com
 
 ![Calendar1](../images/Initial-images/Gsuite/calendar1.jpg)
 
-2.  Access from the GSuite dashboard:
+From GSuite Dashboard:
 
 ![Google Calendar](../images/Initial-images/Gsuite/Googlecalender.jpg)
 
-3.  Access from within Gmail:
+From Gmail
 
 ![Calendar](../images/Initial-images/Gsuite/Calendar.jpg)
 
@@ -305,15 +309,17 @@ Google Docs, Google Sheets and Google Slides are respectively a word processor, 
 
 Few ways to reach your editors:
 
-1.  Go to-> drive.google.com
+From browser/computer:
+
+*   Go to-> drive.google.com
 
 ![googledocs](../images/Initial-images/Gsuite/Googledocs.jpg)
 
-2.  Access from the GSuite dashboard:
+From GSuite Dashboard:
 
 ![doc1](../images/Initial-images/Gsuite/googledocs1.jpg)
 
-3.  Access from within Gmail:
+From Gmail:
 
 ![docs2](../images/Initial-images/Gsuite/Googledocs2.jpg)
 
@@ -563,6 +569,16 @@ Few benefits of Hangout Group chats are:
 
 _____
 _____
+
+### **_Other GSuite Apps_**
+
+Many more apps avaiblable at Google Marketplace. Follow the link:
+
+[Google Marketplace](https://www.google.com/enterprise/marketplace)
+
+____
+____
+
 
 
 

@@ -24,14 +24,37 @@ For free tutorial visit:
 
 https://www.atlassian.com/software/jira/guides
 
-### **_Projects_**
 
-After logging in, you will see your dashboard. And on your dashboard, you will see the projects of which you are a part. If you do not see any projects on your dashboard, please contact your manager immediately or the HR.
+### **_Key terms to know_**
 
-Projects are various active sets of activities, being accomplished by a specific group of people. You can be a part of a single or multiple projects. In every project, only people relevant to that project are present. If you become a part of a project that you are not supposed to be, please inform the HR to remove you from that project. If you fail to inform the HR, and later on it is realised that you continued to be a part of a particular project, of which you were not supposed to, the company can take disciplinary action against you.
+*   Issues
 
-_____
-____
+    A Jira 'issue' refers to a single work item of any type or size that is tracked from creation to completion. For example, an issue could be a feature being developed by a software team, a to-do item for a marketing team, or a contract that needs to be written by a legal team.
+
+    Common terms used to refer to issues are:
+
+    *   requests
+    *   tickets
+    *   tasks
+
+*   Projects
+
+    A project is, quite simply, a collection of issues that are held in common by purpose or context. Teams can use a Jira project to:
+
+    *   Coordinate the development of a product
+    *   Track a project
+    *   Manage a help desk
+
+Jira Software projects are flexible working spaces that allow you to group like issues by team, business unit, product, or stream of work. Projects don't need to be tied to the same delivery date. 
+
+*   Workflows
+
+    Workflows represent the sequential path an issues takes from creation to completion. A basic workflow might look something like this:
+
+    ![workflow](../images/Initial-images/Jira/workflow.jpg)
+
+    In this case, Open, Done, and the labels in between represent the status an issue can take, while the arrows represent potential transitions from one status to another. 
+
 
 
 
