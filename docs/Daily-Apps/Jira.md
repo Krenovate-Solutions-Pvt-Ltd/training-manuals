@@ -1,7 +1,11 @@
-## **Jira**
+# **Jira**
+
+### **_Introduction_**
 
 JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. 
 The basic use of this tool is to plan, track, and release software.
+
+At Krenovate, Jira is the most important used app due to it's project management and task tracking tools.
 
 ### **_Account Creation_**
 
@@ -27,33 +31,198 @@ https://www.atlassian.com/software/jira/guides
 
 ### **_Key terms to know_**
 
-*   Issues
+*   **_Tasks_**
 
-    A Jira 'issue' refers to a single work item of any type or size that is tracked from creation to completion. For example, an issue could be a feature being developed by a software team, a to-do item for a marketing team, or a contract that needs to be written by a legal team.
+       * A Jira 'task' refers to a single work item of any type or size that is tracked from creation to completion. 
+       * A task represents work that needs to be done.
+       * A task has a more technical nature.
+       * A task can be referred as "issue".
 
-    Common terms used to refer to issues are:
+    Few examples of tasks could be:
 
-    *   requests
-    *   tickets
-    *   tasks
+    *   a feature being developed by a software team
+    *   a to-do item for a marketing team
+    *   a contract that needs to be written by the legal team
 
-*   Projects
+![task](../images/Initial-images/Jira/task.jpg)
 
-    A project is, quite simply, a collection of issues that are held in common by purpose or context. Teams can use a Jira project to:
+
+*   **_Sub-Tasks_**
+
+    *   Assigned tasks can be broken into smaller parts known as Sub-tasks.
+    *   A sub-task has to be totally related to the parent task.
+
+*   **_Projects_**
+
+    A project is, quite simply, a collection of Tasks, that are held in common by purpose or context. Teams can use a Jira project to:
 
     *   Coordinate the development of a product
     *   Track a project
     *   Manage a help desk
 
-Jira Software projects are flexible working spaces that allow you to group like issues by team, business unit, product, or stream of work. Projects don't need to be tied to the same delivery date. 
+Jira Software projects are flexible working spaces that allow you to group like tasks by team, business unit, product, or stream of work. Projects don't need to be tied to the same delivery date. 
 
-*   Workflows
+![projects](../images/Initial-images/Jira/projects.jpg)
 
-    Workflows represent the sequential path an issues takes from creation to completion. A basic workflow might look something like this:
+*   **_Workflows_**
+
+    Workflows represent the sequential path a task takes from creation to completion. A basic workflow might look something like this:
 
     ![workflow](../images/Initial-images/Jira/workflow.jpg)
 
-    In this case, Open, Done, and the labels in between represent the status an issue can take, while the arrows represent potential transitions from one status to another. 
+    In this case, Open, Done, and the labels in between represent the status a task can take, while the arrows represent potential transitions from one status to another. 
+
+*   **_Epics_**
+
+    *   An Epic is a large body of work that can be broken down into a number of smaller tasks.
+    *   Epics group together bugs, stories, and tasks to show the progress of a larger initiative.
+    *   An Epic can run across multiple versions.
+
+![epic](../images/Initial-images/Jira/epics.jpg)
+
+
+*   **_Stories_**
+
+    *   Also called “user stories,” are short requirements or requests written from the perspective of an end user.
+    *   At Krenovate, we do not use stories.
+
+
+*   **_Versions_**
+
+    *   Versions are points-in-time for a project.
+    *   Versions can be termed as "Phases of launch" of a project.
+    *   They help you schedule and organize your releases.
+    *   You can assign tasks in your project to a specific version, and organise your sprints around completing work in that version.
+    *   Versions that include end dates can indicate when a release is overdue.
+
+![version](../images/Initial-images/Jira/version.jpg)
+
+
+*   **_Backlog_**
+
+    *   It is simply a list of tasks that represents outstanding work in a project assigned to you.
+    *   The Backlog gives you place to organize your sprints.
+    *   You can create new issues or sub-tasks, organize your backlog, create versions, organize via epics, and start sprints.
+
+![backlog](../images/Initial-images/Jira/backlog.jpg)
+
+
+*   **_Sprints_**
+
+    *   It can be termed as a "Timeline of tasks".
+    *   A sprint is a short, time-boxed period when a team works to complete a set amount of work. 
+    *   A sprint is a fixed time period where teams complete work from their product backlog.
+    *   Sprints are usually one, two, or four weeks long.
+
+
+*   **_Active Sprints_**
+
+    *   An Active Sprint of a Scrum board displays the issues that your team is currently working on.
+    *   You can create and update tasks/issues, drage and drop issues to transition them through a workflow.
+
+![activesprint](../images/Initial-images/Jira/activesprint.jpg)
+
+
+
+*   **_Components_**
+
+    *   Components represent stakeholders of a project.
+    *   Component Stakeholders are different group of people who are goig work on and use projects.
+    *   Component is a generic term which can be used effectively to represent an module of an project.
+
+![components](../images/Initial-images/Jira/components.jpg)
+
+
+### **_Task Allocation and Management_**
+
+#### **_Description of Task_**
+
+As a user, the most important thing to understand is the tasks allocated to you and how to manage them.
+
+In this section we will discusss ablout task allocation in detail.
+
+Once, your Jira account is activated: 
+
+*   Your manager will assign tasks to you.
+*   You will receive and email intimation for task assigned. 
+
+![taskmail](../images/Initial-images/Jira/taskmail.jpg)
+
+*   Click on "View Issue". You will be taken to the task description page in Jira.
+
+![taskdesc](../images/Initial-images/Jira/taskdesc.jpg)
+    Task description will tell you about all the work to be done under that task.
+
+*   On the right side of the screen various options are available:
+
+    *   Status of the task:
+
+        *   When task is assigned it shows "To Do"
+        *   Task should never be marked as "In Progress"
+
+        ![taskstatus](../images/Initial-images/Jira/taskstatus.jpg)
+
+    *   Assignee: It is the user name who is assigned the task.
+    *   Reporter: This shows your manager name
+    *   Time Tracking: This shows the duration of time spent in performing the task.
+
+        *   Time is tracked using the [Hubstaff Recorder App](Hubstaff-Recorder-App.md)
+  
+    *   Sprint: Shows the name of the active sprint of which the task is a part.
+    *   Priority: Here the priority can be set as low, medium, high depending on the project requirement.
+
+![taskoptions](../images/Initial-images/Jira/taskoptions.jpg)
+
+
+#### **_Commenting & Discussing_**
+
+*   You can comment, attach files, send links through the comment section of the task.
+*   You can tag the person you want to send the comment to.
+*   All formatting options are available within.
+*   Click on Save
+
+![taskcomment](../images/Initial-images/Jira/taskcomment.jpg)
+
+*   Once you add a comment, a mail notification is received by the tagged person.
+
+![commentnotification](../images/Initial-images/Jira/commentnotification.jpg)
+
+*   History: This shows all the activity that takes place while performing the task.
+
+![taskhistory](../images/Initial-images/Jira/taskhistory.jpg)
+
+*   Work Log: The log shows the time spent of doing the task.
+
+![tasklog](../images/Initial-images/Jira/tasklog.jpg)
+
+
+#### **_Attachments & Files_**
+
+*   You can attach relevant files, images from the attachment tab below the task name.
+
+![taskattach](../images/Initial-images/Jira/taskattach.jpg)
+
+#### **_Creating a Sub-task_**
+
+*   Within the assigned task, your can add sub-tasks to organise your work.
+*   Click on Create Subtask
+
+![subtask](../images/Initial-images/Jira/subtask.jpg)
+
+*   Enter the description of the sub-task and click on create.
+
+![subtask1](../images/Initial-images/Jira/subtask1.jpg)
+
+
+#### **_Marking Task Complete_**
+
+ *  Once the task is complete, it should be marked as "Done".
+ 
+ ![task done](../images/Initial-images/Jira/taskdone.jpg)
+
+
+
+
 
 
 
