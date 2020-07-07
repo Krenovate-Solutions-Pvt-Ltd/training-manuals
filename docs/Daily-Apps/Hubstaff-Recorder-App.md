@@ -1,4 +1,4 @@
-## **Hubstaff Desktop Client - Hubstaff Recorder**
+# **Hubstaff Desktop Client - Hubstaff Recorder**
 
 ### **_Introduction_**
 

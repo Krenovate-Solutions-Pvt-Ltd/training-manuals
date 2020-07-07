@@ -46,10 +46,10 @@ https://www.atlassian.com/software/jira/guides
 
 ![task](../images/Initial-images/Jira/task.jpg)
 
-
 *   **_Sub-Tasks_**
 
-    *   Assigned tasks can be broken into smaller parts known as Sub-tasks.
+    *   Subtask issues are useful for splitting up a parent issue into a number of smaller tasks that can be assigned and tracked separately.
+    *   It addresses issues more comprehensively and segregates the task into smaller chunks of task to do.
     *   A sub-task has to be totally related to the parent task.
 
 *   **_Projects_**
@@ -60,7 +60,9 @@ https://www.atlassian.com/software/jira/guides
     *   Track a project
     *   Manage a help desk
 
-Jira Software projects are flexible working spaces that allow you to group like tasks by team, business unit, product, or stream of work. Projects don't need to be tied to the same delivery date. 
+    Jira Software projects are flexible working spaces that allow you to group like tasks by team, business unit, product, or stream of work. 
+    
+    Projects don't need to be tied to the same delivery date. 
 
 ![projects](../images/Initial-images/Jira/projects.jpg)
 
@@ -133,6 +135,9 @@ Jira Software projects are flexible working spaces that allow you to group like 
 ![components](../images/Initial-images/Jira/components.jpg)
 
 
+[Watch the tutorial to understand the key terms](https://www.youtube.com/watch?v=tVS5YbHBjQw)
+
+
 ### **_Task Allocation and Management_**
 
 #### **_Description of Task_**
@@ -144,7 +149,7 @@ In this section we will discusss ablout task allocation in detail.
 Once, your Jira account is activated: 
 
 *   Your manager will assign tasks to you.
-*   You will receive and email intimation for task assigned. 
+*   You will receive an email intimation for task assigned. 
 
 ![taskmail](../images/Initial-images/Jira/taskmail.jpg)
 
@@ -176,8 +181,13 @@ Once, your Jira account is activated:
 
 #### **_Commenting & Discussing_**
 
+While you're working on an issue, you will probably need to share some information, clarify some
+requirements, or discuss some details about the issue with your team. This is easy to do with issue comments:
+
 *   You can comment, attach files, send links through the comment section of the task.
-*   You can tag the person you want to send the comment to.
+*   To email other users about your comment, simply mention these users in the Comment text box (by
+typing @User's Name). An email will be sent to the users' email addresses that are registered with
+their JIRA accounts.
 *   All formatting options are available within.
 *   Click on Save
 
@@ -187,11 +197,15 @@ Once, your Jira account is activated:
 
 ![commentnotification](../images/Initial-images/Jira/commentnotification.jpg)
 
-*   History: This shows all the activity that takes place while performing the task.
+####  **_History_** 
+
+The history tab gives a detailed view of all the activity that takes place while performing the task.
 
 ![taskhistory](../images/Initial-images/Jira/taskhistory.jpg)
 
-*   Work Log: The log shows the time spent of doing the task.
+#### **_Work Log_**
+
+The work log tab shows the time spent of doing the task.
 
 ![tasklog](../images/Initial-images/Jira/tasklog.jpg)
 
@@ -216,9 +230,23 @@ Once, your Jira account is activated:
 
 #### **_Marking Task Complete_**
 
- *  Once the task is complete, it should be marked as "Done".
- 
+ *  After your work has been reviewed and approved, the last step is to close or resolve the
+issue.
+*   Select "Done" in the task status option.
+
  ![task done](../images/Initial-images/Jira/taskdone.jpg)
+
+
+### **_Tutorials and User Guides_**
+
+Follow the below useful links for more information:
+
+*   https://www.softwaretestinghelp.com/atlassian-jira-tutorial-1/
+*   https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html#1
+*   https://www.atlassian.com/software/jira/guides
+*   https://www.tutorialspoint.com/jira/jira_tutorial.pdf
+
+
 
 
 

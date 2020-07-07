@@ -1,4 +1,6 @@
-### **Desktop Github**
+# **Desktop Github**
+
+### **_Introduction_**
 
 It's a fast, easy way to contribute to projects from OS X and Windows.
 GitHub Desktop is designed to simplify essential steps in your GitHub workflow and replace GitHub for Mac and Windows with a unified experience across both platforms.
