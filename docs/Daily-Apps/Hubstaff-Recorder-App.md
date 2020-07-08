@@ -4,21 +4,23 @@
 
 Hubstaff's Desktop Client/app is an easy way to keep track of time worked. It helps you record your time spent on various activities.
 
-### **_App Installation_**
+### **_App Download_**
 
 Follow the below steps to Install and activate the app:
 
-1.  Download the app from https://hubstaff.com/download
+*   Download the app from https://hubstaff.com/download
 
-![Hubstaff Download](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffappdownload.jpg)
+![download](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffappdownload.jpg)
 
-2.  It is compatible with various Operating Systems:
+*   It is compatible with various Operating Systems:
 
-![Hubstaff Compatibility](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffcompatibility.jpg)
+![compatibility](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffcompatibility.jpg)
 
+### **_Install & Sign in_**
 
-### **_Install_**
 Install and sign in to the client with the Hubstaff user id and password.
+
+![signin](../images/Initial-images/Hubstaff-Recorder-App/signin.jpg)
 
 ### **_Time Tracking_**
 
@@ -26,15 +28,21 @@ Install and sign in to the client with the Hubstaff user id and password.
 
 * You should always select the project that you are currently working on as these projects will be reflected in your reports in the Hubstaff web interface.
 
-![Hubstaff Timer](../images/Initial-images/Hubstaff-Recorder-App/HubstaffTimer.jpg)
+![timer](../images/Initial-images/Hubstaff-Recorder-App/HubstaffTimer.jpg)
 
 * Check your “Activity” page on Hubstaff Web for screenshots, time and activity percentages.
 
-![Hubstaff Activity](../images/Initial-images/Hubstaff-Recorder-App/HubstaffActivity.jpg)
+![activity](../images/Initial-images/Hubstaff-Recorder-App/HubstaffActivity.jpg)
 
+
+### **_Help & Guides_**
 
 For more information on Hubstaff, follow the link below:
-https://support.hubstaff.com/quick-start-guide-for-new-users/
+*   [Quick Start Guide](https://support.hubstaff.com/quick-start-guide-for-new-users/)
+*   [Downloading the Desktop App](https://support.hubstaff.com/downloading-the-desktop-client/)
+*   [Install & Sign in](https://support.hubstaff.com/install-and-sign-in-into-windows-desktop-client/)
+*   [Desktop App Walkthrough](https://support.hubstaff.com/desktop-apps-walkthrough/)
+*   [Watch Video](https://www.youtube.com/watch?v=O6nT3zdIVHY)
 
-____
-____
+
+
