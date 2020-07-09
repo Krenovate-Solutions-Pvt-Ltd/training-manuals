@@ -38,10 +38,15 @@ Install and sign in to the client with the Hubstaff user id and password.
 ### **_Help & Guides_**
 
 For more information on Hubstaff, follow the link below:
+
 *   [Quick Start Guide](https://support.hubstaff.com/quick-start-guide-for-new-users/)
+
 *   [Downloading the Desktop App](https://support.hubstaff.com/downloading-the-desktop-client/)
+
 *   [Install & Sign in](https://support.hubstaff.com/install-and-sign-in-into-windows-desktop-client/)
+
 *   [Desktop App Walkthrough](https://support.hubstaff.com/desktop-apps-walkthrough/)
+
 *   [Watch Video](https://www.youtube.com/watch?v=O6nT3zdIVHY)
 
 
