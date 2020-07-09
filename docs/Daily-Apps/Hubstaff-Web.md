@@ -45,22 +45,23 @@ Hubstaff’s Web Application provides a central location to access data regardin
 
 Let's discuss the options available and their use.
 
-*   **Dashboard**
+####   **Dashboard**
 
-    *   The Dashboard is the home screen of your Hubstaff Web App. 
-    *   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
-    *   The Recent Activity widget displays screenshot of activities where time has been tracked most recently.
+  * The Dashboard is the home screen of your Hubstaff Web App. 
+*   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
+*   The Recent Activity widget displays screenshot of activities where time has been tracked most recently.
 
-    ![dashboard](../images/Initial-images/Hubstaff-Web/hubstaff%20dashboard.jpg)
-
-*   **Activity**
-
-    The Activity section displays data tracked by the users, broken down into a detailed daily format.
-
-    ![activity](../images/Initial-images/Hubstaff-Web/hubstaffactivity.jpg)
+    ![dashboard](../images/Initial-images/Hubstaff-Web/hubstaffdashboard.jpg)
 
 
-    *   *Screenshots*
+####   **Activity**
+
+The Activity section displays data tracked by the users, broken down into a detailed daily format.
+
+![activity](../images/Initial-images/Hubstaff-Web/hubstaffactivity.jpg)
+
+
+  *   *Screenshots*
 
 
         *   The images are uploaded from the users’ tracking client and displayed in this section.
@@ -70,7 +71,7 @@ Let's discuss the options available and their use.
 
         ![screenshot](../images/Initial-images/Hubstaff-Web/hubstaffscreenshot.jpg)
 
-    *   *Apps*
+  *  *Apps*
 
         *   Using Hubstaff, it is possible to monitor what apps are being used by the user during their work time.
         *   In this section, you will find activity data regarding 
@@ -83,7 +84,7 @@ Let's discuss the options available and their use.
         ![appactivity](../images/Initial-images/Hubstaff-Web/hubstaffappactivity.jpg)
 
 
-    *   *URLs*
+  *   *URLs*
 
         *   With Hubstaff, a user's URL browing history can be monitored.
         *   The website accessed by the user is captured and presented under this section.
@@ -96,13 +97,13 @@ Let's discuss the options available and their use.
         ![url](../images/Initial-images/Hubstaff-Web/hubstaffurl.jpg)
 
 
-*   **Timesheets**     
+####   **Timesheets**     
 
-    Under the Timesheets section, data regarding the time tracked by the users in a daily, weekly or calendar format can be found. 
+Under the Timesheets section, data regarding the time tracked by the users in a daily, weekly or calendar format can be found. 
 
-    ![timesheet](../images/Initial-images/Hubstaff-Web/timesheet.jpg)
+![timesheet](../images/Initial-images/Hubstaff-Web/timesheet.jpg)
 
-    *   *View & Edit*
+  *   *View & Edit*
 
         The time can be tracked in various ways:
 
@@ -130,6 +131,23 @@ Let's discuss the options available and their use.
   
         ![calendar](../images/Initial-images/Hubstaff-Web/calendartimesheet.jpg)
 
-    In all type of timesheets, it is possible to filter the data by user, source (how time was tracked), timezone, and date by clicking the relevant menu at the top of the screen.
+In all type of timesheets, it is possible to filter the data by user, source (how time was tracked), timezone, and date by clicking the relevant menu at the top of the screen.
 
+
+####   **Reports**   
+
+*   Hubstaff has an extensive reporting section in which detailed monitoring data can be reviewed regarding your performance.
+*   This option is more useful for the Team Managers in order to track and measure team performance at an organization level.
+*   There are various levels at which tracking can be done.
+
+![reports](../images/Initial-images/Hubstaff-Web/reports.jpg)
+
+
+### **_Help & Guides_**
+
+For more ellaborate help visit the below links:
+
+*   https://support.hubstaff.com/web-application-dashboard-overview-owners/#todos
+*   https://www.youtube.com/watch?v=L5wx34FJjls
+  
 
