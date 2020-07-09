@@ -48,10 +48,10 @@ Let's discuss the options available and their use.
 ####   **Dashboard**
 
   * The Dashboard is the home screen of your Hubstaff Web App. 
-*   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
-*   The Recent Activity widget displays screenshot of activities where time has been tracked most recently.
+  *   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
+  *   The Recent Activity widget displays screenshot of activities where time has been tracked most recently.
 
-    ![dashboard](../images/Initial-images/Hubstaff-Web/hubstaffdashboard.jpg)
+![dashboard](../images/Initial-images/Hubstaff-Web/hubstaffdashboard.jpg)
 
 
 ####   **Activity**
@@ -61,20 +61,19 @@ The Activity section displays data tracked by the users, broken down into a deta
 ![activity](../images/Initial-images/Hubstaff-Web/hubstaffactivity.jpg)
 
 
-  *   *Screenshots*
+*   *Screenshots*
 
+    * The images are uploaded from the users’ tracking client and displayed in this section.
+    *   Each row of screenshots represents one hour of time tracked by a user. 
+    *  The timestamp of when the screenshots were taken is displayed above each row of images as well as the total time tracked within that hour.
+    *  Multiple images representing each 10-minute interval are then displayed within each hourly row
 
-        *   The images are uploaded from the users’ tracking client and displayed in this section.
-        *   Each row of screenshots represents one hour of time tracked by a user. 
-        *  The timestamp of when the screenshots were taken is displayed above each row of images as well as the total time tracked within that hour.
-        *  Multiple images representing each 10-minute interval are then displayed within each hourly row
-
-        ![screenshot](../images/Initial-images/Hubstaff-Web/hubstaffscreenshot.jpg)
+    ![screenshot](../images/Initial-images/Hubstaff-Web/hubstaffscreenshot.jpg)
 
   *  *Apps*
 
-        *   Using Hubstaff, it is possible to monitor what apps are being used by the user during their work time.
-        *   In this section, you will find activity data regarding 
+       *   Using Hubstaff, it is possible to monitor what apps are being used by the user during their work time.
+       *   In this section, you will find activity data regarding 
             *   the name of the app used
             *   on which date it was accessed
             *   how many times it was accessed
@@ -103,31 +102,31 @@ Under the Timesheets section, data regarding the time tracked by the users in a 
 
 ![timesheet](../images/Initial-images/Hubstaff-Web/timesheet.jpg)
 
-  *   *View & Edit*
+*   *View & Edit*
 
-        The time can be tracked in various ways:
+    The time can be tracked in various ways:
 
-        *   Daily : 
+    *   Daily : 
+
+        *   Daily Timesheets provides the daily time tracked by the users
+        *   It displays the exact time the user started and stopped their timer
+        *   the daily total number of hours tracked 
+        *   which projects you were tracking time against
   
-            *   Daily Timesheets provides the daily time tracked by the users
-            *   It displays the exact time the user started and stopped their timer
-            *   the daily total number of hours tracked 
-            *   which projects you were tracking time against
-
         ![daily](../images/Initial-images/Hubstaff-Web/dailytimesheet.jpg)
 
-        *   Weekly :
+    *   Weekly :
 
-            *   The Weekly Timesheet section provides the weekly time tracked by the user.
-            *   It displays the total number of hours. tracked per day, as well as per weekly time span.
-            *   It also shows a breakdown of how much time was spent per project.
-            *   And, the total number of weekly hours worked.
+        *   The Weekly Timesheet section provides the weekly time tracked by the user.
+        *   It displays the total number of hours. tracked per day, as well as per weekly time span.
+        *   It also shows a breakdown of how much time was spent per project.
+        *   And, the total number of weekly hours worked.
 
         ![weekly](../images/Initial-images/Hubstaff-Web/weeklytimesheet.jpg)
 
-         *   Calendar :
+    *   Calendar :
 
-                *   The Calendar section displays the individual user’s timesheets in a calendar view.
+        *   The Calendar section displays the individual user’s timesheets in a calendar view.
   
         ![calendar](../images/Initial-images/Hubstaff-Web/calendartimesheet.jpg)
 
