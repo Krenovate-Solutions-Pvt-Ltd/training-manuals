@@ -73,7 +73,7 @@ The Activity section displays data tracked by the users, broken down into a deta
   *  *Apps*
 
        *   Using Hubstaff, it is possible to monitor what apps are being used by the user during their work time.
-       *   In this section, you will find activity data regarding 
+       *   In this section, you will find activity data regarding: 
             *   the name of the app used
             *   on which date it was accessed
             *   how many times it was accessed
@@ -87,11 +87,12 @@ The Activity section displays data tracked by the users, broken down into a deta
 
         *   With Hubstaff, a user's URL browing history can be monitored.
         *   The website accessed by the user is captured and presented under this section.
-        *   In this section, you will find activity data regarding 
-            *   the URL/Website accessed
-            *   on which date it was accessed
-            *   how long it was accessed for 
-            *   under which project the user was tracking time against.
+        *   In this section, you will find activity data regarding:
+
+            *  the URL/Website accessed
+            *  on which date it was accessed
+            *  how long it was accessed for 
+            *  under which project the user was tracking time against. 
 
         ![url](../images/Initial-images/Hubstaff-Web/hubstaffurl.jpg)
 

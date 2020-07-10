@@ -8,7 +8,7 @@ The training manuals here will ensure that all training information on skills, p
 
 The purpose of having training manuals is:
 
-*   To *organize* how our employees are going to be trained throught out their employment.
+*   To *organize* how our employees are going to be trained through out their employment.
 *   To help *create* a standardized plan that is going to take our employees to success.
 *   To *guarantee* that our employees do not miss important instructions.
 *   To provide *step-by-step instructions* for employees to reach their respective goals/requirements quicker.

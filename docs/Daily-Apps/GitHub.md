@@ -4,11 +4,9 @@
 
 GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way.
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
-GitHub is used as a version control tool. Version controlling your document allows you to:
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Version controlling your document allows you to:
 
 1.  Track developments and changes in your documents.
 2.  Record the changes you made to your document in a way that you will be able to understand later.
@@ -21,16 +19,28 @@ GitHub is used as a version control tool. Version controlling your document allo
 
 Follow the below steps:
 
-1.   Go to -> www.github.com
-2.   Sign up with company email
+*    Go to -> www.github.com
+*    Sign up with company email
 
 ![Github Signup](../images/Initial-images/GitHub/Github%20Signup.jpg)
 
-3.   Verify your email to complete signup
+### **_Account Verification_**
+
+*    Verify your email to complete signup
 
 ![Github Verify](../images/Initial-images/GitHub/Github%20verify.jpg)
 
-4.   Once the account is ready, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
+### **_Github Login_**
+
+*    Go to: github.com
+*    Click on Sign In
+*    Login with your credentials
+
+![signin](../images/Initial-images/GitHub/signin.jpg)
+
+### **_Inside your Github_**
+
+*    Once you login, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
  
      https://lab.github.com/githubtraining/introduction-to-github
 
@@ -41,6 +51,9 @@ Follow the below steps:
 
      *    A repository is usually used to organize a single project.
      *    It can contain folders, files, images, spreadsheets- anything a project needs.
+     *    Inside your account, all Repositories you are part of show on the left side panel of the home page.
+
+     ![homepage](../images/Initial-images/GitHub/homepage.jpg)
 
 
 *    **_Branch_**
@@ -77,7 +90,18 @@ Following is the GitHub flow:
 *    Send a pull request from your branch with your proposed changes to kick off a discussion.
 *    Make changes on your branch as needed. Your pull request will update automatically.
 *    Merge the pull request once the branch is ready to be merged.
-*    Tidy up your branches using the delete button in the pull request or on the branches page.
 
 ![github flow](../images/Initial-images/GitHub/githubflow.jpg)
+
+### **_Collaboration with Github Desktop_**
+
+For all the basic purpose we use the [Github Desktop](Desktop-Github.md) version, which lets you run all the basic commands for day to day work.
+
+
+### **_Help & Guides_**
+
+*    https://docs.github.com/en/github/getting-started-with-github
+*    https://guides.github.com/activities/hello-world/
+*    https://try.github.io/
+*    https://www.youtube.com/watch?v=iv8rSLsi1xo
 
