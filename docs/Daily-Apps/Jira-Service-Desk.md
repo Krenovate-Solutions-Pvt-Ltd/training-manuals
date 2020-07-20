@@ -11,7 +11,7 @@ Jira Service Desk is simply modern service desk software. It brings more structu
 
 Jira Service Desk integrates directly with Jira and brings you all the power and productivity of Jira to your service desk teams in the below ways:
 
-*   An intuitive, customer-centered interface - It lets you craft easy-to-use forms for your users:
+*   An intuitive, customer-centered interface - It lets you craft easy-to-use forms for your users.
     *   Create clean and simple customer portals with clear calls to action.
     * Build templates for users to enter all the details you need.
     * Display contextual information, re-map statuses, and hide fields your users don’t need.
@@ -70,6 +70,41 @@ Customers can access every service desk project that you’ve given them permiss
 Before you create a service desk project, you choose a project template for it. After you sign up for Jira Service Desk, you’re asked to choose a template for your first service desk project. Depending on your organization’s needs, we start your project with reports, request types and other tools. You can always configure your project later.
 
 
+### **_User types and Roles_**
+
+Primarily there are two licensed roles: administrators and agents. The administrator sets up and configures service desk projects. The agent works in these projects.
+
+In this manual, we will focus on the agent role.
+
+#### **_Agents_**
+
+The Service Desk Team Members who work on customer requests are termed as "Agents". An agent can:
+
+*   View the customer portal, queues, reports and SLA metrics for a project
+*   Add, edit, and delete customer-facing and internal comments on issues
+*   Add customers to a project
+*   Read knowledge base content
+
+
+### **_Accessing Service Desk Projects_**
+
+1.  Login to your Jira account.
+2.  Go to Projects.
+3.  Choose the Service Desk Project.
+
+![accessproject](../images/Initial-images/Jira-Service-Desk/accessproject.jpg)
+
+
+### **_How a Service Desk works_**
+
+Here's how your customers and service desk agents work together to resolve a request:
+
+![workflow](../images/Initial-images/Jira-Service-Desk/workflow.jpg)
+
+*   The customer raises a request through the portal provided.
+*   The request is added to the project service desk queue.
+*   Initially it is assigned to the Project Manager, who decides who will work and resolve the ticket.
+*   
 [User Guide](https://support.atlassian.com/jira-service-desk-cloud)
 
 

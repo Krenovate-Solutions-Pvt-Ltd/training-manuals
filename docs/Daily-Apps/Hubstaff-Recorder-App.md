@@ -1,10 +1,10 @@
 # **Hubstaff Desktop Client - Hubstaff Recorder**
 
-### **_Introduction_**
+## **_Introduction_**
 
 Hubstaff's Desktop Client/app is an easy way to keep track of time worked. It helps you record your time spent on various activities.
 
-### **_App Download_**
+## **_App Download_**
 
 Follow the below steps to Install and activate the app:
 
@@ -16,13 +16,13 @@ Follow the below steps to Install and activate the app:
 
 ![compatibility](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffcompatibility.jpg)
 
-### **_Install & Sign in_**
+## **_Install & Sign in_**
 
 Install and sign in to the client with the Hubstaff user id and password.
 
 ![signin](../images/Initial-images/Hubstaff-Recorder-App/signin.jpg)
 
-### **_Time Tracking_**
+## **_Time Tracking_**
 
 * When you start the client and login, you’ll be presented with a number of projects for you to select.
 
@@ -35,7 +35,7 @@ Install and sign in to the client with the Hubstaff user id and password.
 ![activity](../images/Initial-images/Hubstaff-Recorder-App/HubstaffActivity.jpg)
 
 
-### **_Help & Guides_**
+## **_Help & Guides_**
 
 For more information on Hubstaff, follow the link below:
 
@@ -49,5 +49,12 @@ For more information on Hubstaff, follow the link below:
 
 *   [Watch Video](https://www.youtube.com/watch?v=O6nT3zdIVHY)
 
+
+## **_To Do List_**
+
+When you complete the above training, do the below task to mark your training complete.
+
+1.  Share a screen shot of the assigned task which shows on the Recorder.
+2.  Try to log in time for the assigned task.
 
 
