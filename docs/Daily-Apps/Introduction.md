@@ -14,13 +14,12 @@ The Below Apps are used for the day to day functioning of our organisation:
 
 *   [GSuite](GSuite.md)
 *   [Jira](Jira.md)
-*   [Jira Service Desk](Jira-Service-Desk.md)
 *   [Hubstaff Web](Hubstaff-Web.md)
 *   [Hubstaff Recorder App](Hubstaff-Recorder-App.md)
-*   [Google Meet](Google-Meet.md)
-*   [Visual Studio Code](Visual-Studio-Code.md)
 *   [Github](GitHub.md)
 *   [Desktop Github](Desktop-Github.md)
+*   [Jira Service Desk](Jira-Service-Desk.md)
+*   [Visual Studio Code](Visual-Studio-Code.md)
 
 
 

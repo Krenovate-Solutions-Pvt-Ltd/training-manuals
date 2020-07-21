@@ -1,13 +1,13 @@
 # **Jira**
 
-### **_Introduction_**
+## **_Introduction_**
 
 JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. 
 The basic use of this tool is to plan, track, and release software.
 
 At Krenovate, Jira is the most important used app due to it's project management and task tracking tools.
 
-### **_Account Creation_**
+## **_Account Creation_**
 
 Your account on Jira will be created by the HR department. And you will get a link for logging into your account on your official email ID. 
 
@@ -18,7 +18,7 @@ Once you create your account, please contact your manager to assign you to relev
 
 ![jira active](../images/Initial-images/Jira/Jiraactivate.jpg)
 
-### **_Logging In_**
+## **_Logging In_**
 
 To log in, please visit - krenovate.atlassian.net and click on the sign in button. Please use your credentials to log in. 
 
@@ -29,7 +29,7 @@ For free tutorial visit:
 https://www.atlassian.com/software/jira/guides
 
 
-### **_Key terms to know_**
+## **_Key terms to know_**
 
 *   **_Tasks_**
 
@@ -138,9 +138,9 @@ https://www.atlassian.com/software/jira/guides
 [Watch the tutorial to understand the key terms](https://www.youtube.com/watch?v=tVS5YbHBjQw)
 
 
-### **_Task Allocation and Management_**
+## **_Task Allocation and Management_**
 
-#### **_Description of Task_**
+### **_Description of Task_**
 
 As a user, the most important thing to understand is the tasks allocated to you and how to manage them.
 
@@ -179,7 +179,7 @@ Once, your Jira account is activated:
 ![taskoptions](../images/Initial-images/Jira/taskoptions.jpg)
 
 
-#### **_Commenting & Discussing_**
+### **_Commenting & Discussing_**
 
 While you're working on an issue, you will probably need to share some information, clarify some
 requirements, or discuss some details about the issue with your team. This is easy to do with issue comments:
@@ -197,26 +197,26 @@ their JIRA accounts.
 
 ![commentnotification](../images/Initial-images/Jira/commentnotification.jpg)
 
-####  **_History_** 
+###  **_History_** 
 
 The history tab gives a detailed view of all the activity that takes place while performing the task.
 
 ![taskhistory](../images/Initial-images/Jira/taskhistory.jpg)
 
-#### **_Work Log_**
+### **_Work Log_**
 
 The work log tab shows the time spent of doing the task.
 
 ![tasklog](../images/Initial-images/Jira/tasklog.jpg)
 
 
-#### **_Attachments & Files_**
+### **_Attachments & Files_**
 
 *   You can attach relevant files, images from the attachment tab below the task name.
 
 ![taskattach](../images/Initial-images/Jira/taskattach.jpg)
 
-#### **_Creating a Sub-task_**
+### **_Creating a Sub-task_**
 
 *   Within the assigned task, your can add sub-tasks to organise your work.
 *   Click on Create Subtask
@@ -228,7 +228,7 @@ The work log tab shows the time spent of doing the task.
 ![subtask1](../images/Initial-images/Jira/subtask1.jpg)
 
 
-#### **_Marking Task Complete_**
+### **_Marking Task Complete_**
 
  *  After your work has been reviewed and approved, the last step is to close or resolve the
 issue.
@@ -237,7 +237,7 @@ issue.
  ![task done](../images/Initial-images/Jira/taskdone.jpg)
 
 
-### **_Tutorials and User Guides_**
+## **_Tutorials and User Guides_**
 
 Follow the below useful links for more information:
 
@@ -247,7 +247,14 @@ Follow the below useful links for more information:
 *   https://www.tutorialspoint.com/jira/jira_tutorial.pdf
 
 
+## **_To Do List_**
 
+Once you finish the training, follow the below task list. Finishing these tasks would mark your Jira training complete.
+
+1.  Ask your manager to assign a task for you.
+2.  Add a comment to the task
+3.  Attach some test files and share with manager
+4.  Mark the task complete.
 
 
 

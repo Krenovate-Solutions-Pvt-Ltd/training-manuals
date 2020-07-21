@@ -1,6 +1,6 @@
 # **Hubstaff Web**
 
-### **_Introduction_**
+## **_Introduction_**
 
 Hubstaff is an employee time tracking software with screenshots, reporting, and automated payments.
 
@@ -8,7 +8,7 @@ To track time, your virtual workforce installs the tracking applications on your
 
  You can select a project, and Hubstaff will then track time and activity to that specific project, which becomes viewable in the web application.
 
-### **_Account Creation_**
+## **_Account Creation_**
 
 *   You will receive an email invitation from your the HR join Hubstaff.
 
@@ -31,7 +31,7 @@ This is the page that will create your account in Hubstaff:
 
 *   Click Go to join the organization which you have been invited to by your Employer.
 
-### **_Logging In_**
+## **_Logging In_**
 
 * Go to https://hubstaff.com/login
 * Sign in with your company email id
@@ -39,13 +39,13 @@ This is the page that will create your account in Hubstaff:
 ![hubstaff login](../images/Initial-images/Hubstaff-Web/hubstafflogin.jpg)
 
 
-### **_Things to know about Hubstaff Web_**
+## **_Things to know about Hubstaff Web_**
 
 Hubstaff’s Web Application provides a central location to access data regarding your/ teams’ tracking and performance.
 
 Let's discuss the options available and their use.
 
-####   **Dashboard**
+###   **Dashboard**
 
   * The Dashboard is the home screen of your Hubstaff Web App. 
   *   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
@@ -54,7 +54,7 @@ Let's discuss the options available and their use.
 ![dashboard](../images/Initial-images/Hubstaff-Web/hubstaffdashboard.jpg)
 
 
-####   **Activity**
+###   **Activity**
 
 The Activity section displays data tracked by the users, broken down into a detailed daily format.
 
@@ -97,7 +97,7 @@ The Activity section displays data tracked by the users, broken down into a deta
         ![url](../images/Initial-images/Hubstaff-Web/hubstaffurl.jpg)
 
 
-####   **Timesheets**     
+###   **Timesheets**     
 
 Under the Timesheets section, data regarding the time tracked by the users in a daily, weekly or calendar format can be found. 
 
@@ -134,7 +134,7 @@ Under the Timesheets section, data regarding the time tracked by the users in a 
 In all type of timesheets, it is possible to filter the data by user, source (how time was tracked), timezone, and date by clicking the relevant menu at the top of the screen.
 
 
-####   **Reports**   
+###   **Reports**   
 
 *   Hubstaff has an extensive reporting section in which detailed monitoring data can be reviewed regarding your performance.
 *   This option is more useful for the Team Managers in order to track and measure team performance at an organization level.
@@ -143,11 +143,10 @@ In all type of timesheets, it is possible to filter the data by user, source (ho
 ![reports](../images/Initial-images/Hubstaff-Web/reports.jpg)
 
 
-### **_Help & Guides_**
+## **_Help & Guides_**
 
 For more ellaborate help visit the below links:
 
 *   https://support.hubstaff.com/web-application-dashboard-overview-owners/#todos
 *   https://www.youtube.com/watch?v=L5wx34FJjls
   
-
