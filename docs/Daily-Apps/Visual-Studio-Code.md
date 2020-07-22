@@ -99,7 +99,7 @@ Working with Markdown files in Visual Studio Code is simple, straightforward, an
 Learn more about [Markdown](Markdown.md) here.
 
 
- ## **_Help & Guides_**
+## **_Help & Guides_**
 
 *   [Visual Studio Code user guide](https://code.visualstudio.com/docs/introvideos/basics)
 
