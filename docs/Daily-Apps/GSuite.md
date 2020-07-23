@@ -60,6 +60,13 @@ Clicking on the link, will verify your email id and will be ready to use.
 
 Now, you are ready to receive official communication.
 
+### **_How to Login_**
+
+*   Go to accounts.google.com
+*   Sign in with your Krenovate account credentials
+
+![login](../images/Initial-images/Gsuite/gmaillogin.jpg)
+
 Happy Emailing !!
 
 When you login to your business email with your credentials, you reach the below dashboard:
@@ -423,7 +430,7 @@ From Calendar:
 ![meet start1](../images/Initial-images/Gsuite/meetstart2.jpg)
 
 
-## **_Join Meeting_**
+### **_Join Meeting_**
 
 From Gmail:
 

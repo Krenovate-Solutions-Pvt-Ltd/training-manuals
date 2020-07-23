@@ -1,6 +1,6 @@
 # **Desktop Github**
 
-### **_Introduction_**
+## **_Introduction_**
 
 It's a fast, easy way to contribute to projects from OS X and Windows.
 
@@ -8,12 +8,12 @@ GitHub Desktop is designed to simplify essential steps in your GitHub workflow a
 
 GitHub Desktop is an open-source Electron-based GitHub app.
 
-### **_Installing and Authenticaticating to Github Desktop_**
+## **_Installing and Authenticaticating to Github Desktop_**
 
 Before you set up GitHub Desktop, you must already have a GitHub account.
 
 
-#### **Download & Install Desktop GitHub**
+### **Download & Install Desktop GitHub**
    
 *   Go to: https://desktop.github.com/
 *   Choose Download to
@@ -22,7 +22,7 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
 
 *   Click and Run the installer file on your computer.
 
-#### **Authenticating to Github**
+### **Authenticating to Github**
 
 *   In the upper-left corner of the window, select the File menu.
 *   Click Options
@@ -41,7 +41,7 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
 ![auth3](../images/Initial-images/Desktop-Github/auth3.jpg)
 
 
-#### **Configuring Basic Settings**
+### **Configuring Basic Settings**
 
 *   In the upper left corner:
 
@@ -64,7 +64,7 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
     ![advanced](../images/Initial-images/Desktop-Github/advanced.jpg)
 
 
-### **_Cloning a Repository from Github to Github Desktop_**
+## **_Cloning a Repository from Github to Github Desktop_**
 
 You can use GitHub to clone remote repositories to GitHub Desktop.
 
@@ -83,7 +83,7 @@ You can use GitHub to clone remote repositories to GitHub Desktop.
 
 ![clone3](../images/Initial-images/Desktop-Github/clone3.jpg)
 
-### **_Creating a Branch_**
+## **_Creating a Branch_**
 
 If you have collaborator permissions on a repository, you can create a branch off of the repository's default branch so you can safely experiment with changes.
 
@@ -98,7 +98,7 @@ If you have collaborator permissions on a repository, you can create a branch of
 
 ![branch2](../images/Initial-images/Desktop-Github/branch2.jpg)
 
-### **_Committing changes to your project_**
+## **_Committing changes to your project_**
 
 GitHub Desktop tracks all changes to all files as you edit them. You can decide how to group the changes to create meaningful commits.
 
@@ -126,15 +126,22 @@ GitHub Desktop tracks all changes to all files as you edit them. You can decide 
 ![pullrequest](../images/Initial-images/Desktop-Github/pullrequest.jpg)
 
 
-### **_Help & Guides_**
+## **_Help & Guides_**
 
 *   [GitHub Desktop Tutorial](https://help.github.com/en/desktop)    
 
 *   [Github Desktop Video Tutorial](https://www.youtube.com/watch?v=77W2JSL7-r8)
 
 
-____
-____
+## **_To do List_**
+
+To mark the training complete, finish the below tasks:
+
+1.  Clone a test repository.
+2.  Create a test branch
+3.  Commit changes made to the branch
+4.  Do a Pull request on the branch.
+
 
 
 

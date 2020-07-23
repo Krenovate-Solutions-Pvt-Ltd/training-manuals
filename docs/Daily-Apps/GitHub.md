@@ -38,12 +38,15 @@ Follow the below steps:
 
 ![signin](../images/Initial-images/GitHub/signin.jpg)
 
-### **_Inside your Github_**
+### **_Courses to do_**
 
 *    Once you login, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
- 
-     https://lab.github.com/githubtraining/introduction-to-github
+*    Both these trainings will give basic knowledge about Github and Markdown.
 
+1.    https://lab.github.com/githubtraining/introduction-to-github
+2.    https://lab.github.com/githubtraining/communicating-using-markdown
+
+   
 
 ### **_Key Terms about Github_**
 
@@ -104,4 +107,6 @@ For all the basic purpose we use the [Github Desktop](Desktop-Github.md) version
 *    https://guides.github.com/activities/hello-world/
 *    https://try.github.io/
 *    https://www.youtube.com/watch?v=iv8rSLsi1xo
+*    https://lab.github.com/
+
 
