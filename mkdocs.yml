@@ -1,5 +1,8 @@
 site_name: Training Manual
 nav:
+  - Employee Policies:
+    -  Introduction: 'Employee-Policies/Introduction.md'
+    -  List of Policies: 'Employee-Policies/List-of-Policies.md'
   - Daily Work Apps:
     -  Introduction: 'Daily-Apps/Introduction.md'
     -  Gsuite: 'Daily-Apps/GSuite.md'
