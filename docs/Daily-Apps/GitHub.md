@@ -1,6 +1,6 @@
 # **Github**
 
-### **_Introduction_**
+## **_Introduction_**
 
 GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way.
 
@@ -15,7 +15,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 5.  Revert changes, moving ‘backwards’ through your history to previous versions of your document.
 
 
-### **_Account Creation_**
+## **_Account Creation_**
 
 Follow the below steps:
 
@@ -24,13 +24,13 @@ Follow the below steps:
 
 ![Github Signup](../images/Initial-images/GitHub/Github%20Signup.jpg)
 
-### **_Account Verification_**
+## **_Account Verification_**
 
 *    Verify your email to complete signup
 
 ![Github Verify](../images/Initial-images/GitHub/Github%20verify.jpg)
 
-### **_Github Login_**
+## **_Github Login_**
 
 *    Go to: github.com
 *    Click on Sign In
@@ -38,7 +38,7 @@ Follow the below steps:
 
 ![signin](../images/Initial-images/GitHub/signin.jpg)
 
-### **_Courses to do_**
+## **_Courses to do_**
 
 *    Once you login, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
 *    Both these trainings will give basic knowledge about Github and Markdown.
@@ -48,7 +48,7 @@ Follow the below steps:
 
    
 
-### **_Key Terms about Github_**
+## **_Key Terms about Github_**
 
 *    **_Repository_**
 
@@ -84,7 +84,7 @@ Follow the below steps:
      *    In this final step, it’s time to bring your changes together – merging your edited branches into the master branch.
 
 
-### **_Github Flow_**
+## **_Github Flow_**
 
 Following is the GitHub flow:
 
@@ -96,12 +96,12 @@ Following is the GitHub flow:
 
 ![github flow](../images/Initial-images/GitHub/githubflow.jpg)
 
-### **_Collaboration with Github Desktop_**
+## **_Collaboration with Github Desktop_**
 
 For all the basic purpose we use the [Github Desktop](Desktop-Github.md) version, which lets you run all the basic commands for day to day work.
 
 
-### **_Help & Guides_**
+## **_Help & Guides_**
 
 *    https://docs.github.com/en/github/getting-started-with-github
 *    https://guides.github.com/activities/hello-world/
