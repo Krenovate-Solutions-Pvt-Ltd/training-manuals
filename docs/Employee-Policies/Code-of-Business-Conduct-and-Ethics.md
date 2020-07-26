@@ -1,12 +1,10 @@
-# **List of Policies**
-
-## **General Principles of Code of Business Conduct and Ethics (COBE)**
+# **General Principles of Code of Business Conduct and Ethics (COBE)**
 
 Krenovate is driven by a set of values, which are embedded in each of our activities and processes. These are: Quality, Confidentiality, Integrity, Meritocracy and Obligation to Dissent. The COBE sets forth the legal and ethical standards and provides an overview of Krenovate guiding principles and these values. The Code is not intended to be all inclusive and does not cover every conceivable situation an Employee or a Representative may encounter. For that, we place a high degree of reliance on the judgement and discretion of the individual Employee or Representative and it is for him/her to decide what is right, including a decision to obtain guidance from others on the approriate course of conduct.
 
 The COBE is a dynamic document taht will constantly evolve over time as we continue to apply the best practices and principles to the complex and diversified issues/ situations of business conduct and ethics. However, as we change, refine and adapt our best practices, the organisation's commitment to integrity and honesty will always remain consistent.
 
-### **General Employee Responsibilities**
+## **General Employee Responsibilities**
 
 All Employees are expected to:
 
@@ -15,7 +13,7 @@ All Employees are expected to:
 -   Use good judgement abd demonstrate a high degree of personal integrity and honesty at all times, even in situations that are not specifically addressed by this COBE or by a Krenovate policy.
 
 
-### **What Managers Need to Know**
+## **What Managers Need to Know**
 
 In most cases, a Krenovate manager will be the first person to be contacted by an Employee whi believes that a Krenovate policy has been, or may be, violated. Thus, managers play a vital role in ensuring compliance with this COBE, Krenovate policies and applicable laws and regulations and they must:
 
@@ -24,7 +22,7 @@ In most cases, a Krenovate manager will be the first person to be contacted by a
 -   Learn not to, "look the other way"; if there is a potential or actual problem or issue, report it immediately so that prompt action can be taken, if necessary.
 
 
-### **Assistance**
+## **Assistance**
 
 If an Employee or Representative needs more information or have questions about any Krenovate policy, they may contact the following:
 
@@ -36,9 +34,9 @@ If an Employee or Representative needs more information or have questions about 
 If you need to report a concern/non-compliance/any incident, you may contact the Whistleblower Committee (*Refer to the **Krenovate Whistleblower Policy** for more information*).
 
 
-### **Krenovate Commitment**
+## **Krenovate Commitment**
 
-#### **_Equal Employment Opportunity_**
+### **_Equal Employment Opportunity_**
 
 Krenovate is committed to providing equal employment opportunity to all applicants and Employees. Individuals will be hired and promoted on the basis of their qualifications, performance and abilities. Krenovate employment practicies will comply, in all respects, with applicable laws and regulations. The fundamental employment policy of Krenovate comprises of:
 
@@ -47,7 +45,7 @@ Krenovate is committed to providing equal employment opportunity to all applican
 
 Krenovate managers and Human Resource Department will ensure that all Employee selection activities are carried out in line with prescribed Employee selection guidelines covered by applicable laws.
 
-#### **_Freedom from Workplace Harassment_**
+### **_Freedom from Workplace Harassment_**
 
 Workplace Harassment, whether verbal, written or physical, will not be tolerated. We are determined to provide a workplace free from any type of discrimination and/or harassment.
 
@@ -55,14 +53,14 @@ Workplace Harassment is defined as offensive and/or unwelcome behaviour and/or c
 
 Sexual Harassment is a specific form of Workplace Harassment and Krenovate strictly prohibits any such kind of harassment. (*Refer to the **Krenovate Anti-Sexual Harassment Policy** for more information*).
 
-#### **_Employee Privacy_**
+### **_Employee Privacy_**
 
 Krenovate respects the personal information of its Employees. Krenovate and its authorised entities/individuals collect and maintain personal information about Employees, such as employment, medical, educational and other personal history details. Krenovate maintains the confidentiality of such information about its former and existing Employees and access to such information is restricted to people who need to know that information. Employees who have access to personal information have an added responsibility to ensure the confidentiality of all such information and the disclosure of such information is only to be made in accordance with Krenovate's policy where there is genuine business, legal or a reasonable requirement to do so. However, this privacy protection does not apply to the Employees's own personal information that is stored by him/her on Krenovate equipment or in office files. Krenovate also has the right to monitor Employee's use of his/her equipment and systems- telephones, e-mails, internet, computers, fax machines, etc. This applies to all Krenovate-owned equipment in te owrkplace and other locations.
 
 
-### **Employee Conduct**
+## **Employee Conduct**
 
-#### **_Alcohol, Substance Abuse and Other Prohibitions_**
+### **_Alcohol, Substance Abuse and Other Prohibitions_**
 
 We are determined to provide a workplace free from any type of alcohol and substance abuse.
 
@@ -73,9 +71,9 @@ Krenovate policy forbids consumption, purchase, sale, manufacture, trafficking, 
 To create a safe working environment, Krenovate has zero tolerance against workplace violence. Workplace violence includes any coercive, unethical activities that create an environment of fear and has the potential to create a risk to health, safety and wellbeing of the Employees. In furtherance to this, Krenovate strictly prohibits possession of firearms or other weapons, on Company property.
 
 
-#### **_Protection of Evalueserve Assets_**
+### **_Protection of Krenovate Assets_**
 
-All Employees and Representatives should protect Krenovate assets and ensure their efficient use. Theft, carelessness and waste have a direct impact on our profitability. All Krenovate assets are to be used to legitimate business purposes only. Any suspected incident of fraud, misuse or theft should be immediately reported for investigation. Krenovate assetsshould not be used for personal benefit.
+All Employees and Representatives should protect Krenovate assets and ensure their efficient use. Theft, carelessness and waste have a direct impact on our profitability. All Krenovate assets are to be used for legitimate business purposes only. Any suspected incident of fraud, misuse or theft should be immediately reported for investigation. Krenovate assetsshould not be used for personal benefit.
 
 **Physical Assets**: Krenovate assets include physical assets, such as facilities, systems, equipment and materials, corporate charge cards. All Employees must adhere to the following guidelines for judiciously using Krenovate assets and protecting them from loss, theft and misuse:
 
@@ -113,12 +111,12 @@ Other general guidelines that an Employee must follow are:
 **Proprietary Information**: Properietary Information is any information owned by and related to Krenovate, such as information on Krenovate's databases, Krenovate's business clients/customers details, personnel details, medical and salary records, copyrighted materials, Krenovate's technical or scientific information relating to current and future products, services or research; business or marketing plans or projections; earnings, credit and other financial data; executive and organizational change, software and othe confidential information relating to the Company. All Krenovate properietary information is confidential in nature unless specifically classified otherwise. This information may also be subject to copyright, patent and other intellectual property and legal rights.
 
 
-#### **_Authority to Make Business Commitments_**
+### **_Authority to Make Business Commitments_**
 
 The authority to make business and/or financial commitments on behalf of Krenovate has been clearly defined by way of clear delegation of authority, and all Employees and Representatives are expected to work in accordance with the same. Employees and Representatives should not make any oral or written commitments, arrangements or promises of business that create a new agreement or modify abn existing agreement with a third party without proper approval. Such commitments should be made by those having defined authority, and acting within the limits of the said authority. Any and all forms of misrepresentation, fraud, dishonesty and deception are to be avoided by Employees and Representatives.
 
 
-#### **_Conflict of Interest_**
+### **_Conflict of Interest_**
 
 Employees must avoid any relationships which create a perceived or actual conflict between their obligation to Krenovate and personal self-interest. An Employee's financial, business or other non-work related activities must be lawful and free of conflicts with the Employees's responsibilities to Krenovate. Employees and Representatives must not, as part of engaging in any outside activities, misuse Krenovate resources, discredit its name and reputation or affect its business in any way. Employees and Representatives should not participate in any business or personal relationships, activities, or dealing that might adversely affect Krenovate.
 
@@ -134,7 +132,7 @@ Although it is not possible to provide a comprehensive list of every possible si
 -   Providing assistance to an organisation that markets products and services in competition with Krenovate's current or potential products or servcie offerings.
 
 
-### **Development and Protection of Intellectual Property**
+## **Development and Protection of Intellectual Property**
 
 Krenovate vigorously protects all of its confidential information and intellectual property (IP), whether in the form of patents, trade secrets, copyrights or trademarks, and expects its Employees and Representatives to do the same. It is critical that Krenovate maintains its reputation as a leader of creation and implementation of best practices to protect all IP that is developed by or disclosed to Krenovate.
 
@@ -150,4 +148,25 @@ In certain cases, Krenovate may procure the services of third parties (such as c
 
 All queries in this regard should be referred to the HR Compliance Team.
 
-### **Maintaining Confidentiality**
+## **Maintaining Confidentiality**
+
+Krenovate Employees are required to keep all Krenovate confidential information, which is received or accessible during and subsequent to employment, in strictest confidence and protect them from unauthorised disclosure. Confidential information includes all information thta is not available in the public domain, such as IP; trade secrets; business; marketing and service plans; databases and records; login details; salary information; customer and supplier lists; major contracts and any unpublished financial data and reports. Employees must maintain the confidentiality of all information entrusted to them by Krenovate and/or its clients and/or suppliers. Krenovate's policy requires that all disclosures of confidential information are done only after the party, to whom the information is to be disclosed, has signed a non-disclosure agreement with Krenovate.
+
+Employees should not disclose, publish, communicate, described directly or indirectly, in any form or manner any confidential information to any third party without a valid business purpose and proper authorisation from Executive Team and the Legal Department. Employees are also required not to disclose confidential information (even within Krenovate) to anyone who does not need to have such confidential information.
+
+Employees need to have safeguards against not only intentional and wilful disclosures but also against inadvertent disclosures. Krenovate strongly urges its Employees to be aware and alert of such circumstances or situations where there is a chance of an unintentional disclosure of confidential information. Examples of such circumstances can be: discussing client related information or other confidential information with a colleague in a crowded elevator or during lunch hour sitting in the cafeteria where Employees from other teams are also seated. Krenovate Employees are strictly prohibited from discussing Krenovate confidential information with their family members or friends, who might innocently or unintentionally pass such information on to someone else. Not only are Employees required to maintain the confidentiality of the information but they should only use it for Krenovate business and not for any personal benefit or reasons. Employees are urged to be aware of social engineering techniques deployed for extracting confidential information.
+
+With regard to Information owned by/about other parties, Krenovate strongly urges its Employees to:
+
+-   Not exercise improper/illegal means for obtaining information about Krenovate competitors.
+-   Not attempt or solicit or obtain competitive intelligence through improper means or through means which could be disparaging to Krenovate reputation.
+-   Treat information of all third parties (including Krenovate's suppliers, vendors, clients) with utmost care and confidentiality and respect the privacy rights of such parties.
+-   Treat any proprietary information of another party that is received, with caution to prevent any accusations that Krenovate misappropriated or misused such information.
+-   Only disclose confidential information about Krenovate's suppliers, vendors, clients to those Employees who need to know such information to transact business with such suppliers, vendors or clients.
+-   Exercise extra caution while dealing with clients personnel about whom there may be reasonable ground of belief that, due to change in client's organisation internal dynamics, such personnel may become unauthorised to receive/access any confidential information.
+-   Regard all information received as Confidential, if it is not known that such information is confidential or not, and to exercise all due care with regard to maintaining confidentiality of such information.
+
+All queries in this regard should be referred to the Legal Department.
+
+
+## **Compliance with Laws**

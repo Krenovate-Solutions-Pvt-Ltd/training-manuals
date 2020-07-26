@@ -592,9 +592,9 @@ Once, you have completed the above training, you are required to finish the belo
 
 Finishing these tasks would mark your GSuite training complete.
 
-1.  Send a test mail to your manager from your official email id
-2.  Upload a test document/ image to your Google Drive. Share a screen shot of the same with your manager.
-3.  Create a Google Calendar meeting invite with your manager.
+1.  Send a test mail to your manager from your official email id.
+2.  Upload a test document/ image to your Google Drive. Share the document/ imaage with your manager.
+3.  Create a Google Calendar meeting invite with your manager. Do check the schedule availability of your manager.
 4.  Create a test Google doc, sheet and slide. Share all these with your manager.
 5.  Schedule a Google Meet video call with your manager and share the joining information.
 6.  Start a Hangout chat with your manager.
