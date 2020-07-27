@@ -20,3 +20,19 @@ All employees (hereafter collectively referred to as "Employees"/"You"), agents,
 If any of these policies, undertakings and guidelines are held invalid or unenforceable by any court of competent jurisdiction, all other policies, undertakings and guidelines detailed will remain in full force and effect. Any of these policies, undertakings and guidelines held invalid or unenforceable or in part or degree will remain in full force and effect to the extent not held invalid or unenforceable.
 
 Executive Team refers to the members of the senior management and includes the Chairman, CEO, COO, CFO and BU Heads.
+
+
+## **List of Policies**
+
+1.  [Code of Business Conduct and Ethics](Code-of-Business-Conduct-and-Ethics.md)
+2.  End-User Computing Policy
+3.  Research Ethical Guidelines
+4.  Anti-Sexual Harassment Policy
+
+
+## **List of Undertakings/Acknowledgements**
+
+1.  Code of Business Conduct and Ethics
+2.  End-User Computing Policy
+3.  Research Ethical Guidelines
+4.  Anti-Sexual Harassment Policy
