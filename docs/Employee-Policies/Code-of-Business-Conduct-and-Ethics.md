@@ -170,3 +170,141 @@ All queries in this regard should be referred to the Legal Department.
 
 
 ## **Compliance with Laws**
+
+Krenovate ensures that it complies with ail the relevant legislations and that we conduct our business within the framework of applicable laws and regulations. Violations of laws, regulations, rules and orders may subject the violator to individual criminal or civil liability, as well as to disciplinary action by Krenovate.
+
+### **_Compliance with Competition Laws_**
+
+Krenovate's belief is that fair competition is fundamental to free enterprise and it is committed to ensure compliance with the competition laws of various countries as may be applicable to Krenovate business operations. These laws, known under various names such as antitrust, monopoly, fair trade etc, are designed to protect the market competitive process and to ensure that it is fair and healthy. These laws prohibit illegal agreements; collusion among competitors; formal or informal agreements with competitors that harm competition or customers; bid rigging, price fixing and allocations of clients, territories or contracts; the acquisition or nnaintenance of a monopoly or attempted monopoly through anti-competitive conduct etc.
+
+To ensure compliance with the various competition laws and in line with Krenovate policy, Krenovate strongly advocates that the following are strictly adhered to:
+
+-   **Avoiding reciprocal dealing** — avoidance of any kind of understanding with a client or supplier, which conditions sales or purchases of Krenovate products on reciprocal sales or purchases of the client's/supplier's products.
+-   Participation in meetings where competitors are present: No Employee or Representative should attend or remain present at any meeting where there is a discussion by competitors on any subject which the Employee or Representative would be otherwise precluded from discussing with the competitor. Additionally, no Employee or Representative should attend or remain present at any informal trade association meeting of competitor members held for the purpose of discussing business matters, without observing the formal procedural requirements established by the trade association for its business meetings. Employees and Representatives should be aware that participation in standard development and product certification activities that impact competitors or suppliers may raise antitrust concerns. Therefore, before participating Employees and Representatives should consult with tha Legal Department.
+-   **Discussions with competitors** — No Employee or Representative shall enter into any understanding or agreement, whether express or implied, formal or informal, written or oral with a competitor limiting or restricting in any of the following: prices, costs, profits, product or service offerings, terms or conditions of sale, production or sales volumes, production facilities or capacity, market share, decisions to quote or not quote certain business, sales territories, clients, distribution methods etc. Employees and Representatives who do have contact with competitors should be ever mindful of not placing themselves in positions which might create the "appearance of impropriety." As a result, no Employee or Representative should discuss with or accept information from a competitor or any other third party acting for a competitor, on any subject as to which an understanding with the competitor would be prohibited.
+
+Antitrust laws impose severe penalties, including criminal penalties, for certain types of violations. All Employees and Representatives who have periodic contact with competitors of Krenovate need to be ever mindful of these laws and strive to avoid placing themselves in situations that might create even the appearance of impropriety. Employees in managerial positions will be responsible for taking appropriate measures in their respective areas to achieve strict legal compliance, both by themselves and by their subordinates.
+
+When a situation is unclear, seek advice from the Legal Department.
+
+### **_Compliance with International Trade Controls_**
+
+All Employees and Representatives must understand and follow applicable international trade control and customs laws and regulations, including those relating to licensing, shipping and import documentation and other such requirements. They should be aware that the trade control laws of various countries might be applicable to Krenovate because these laws apply to business operations and import-export transactions from and to such countries. Such laws govern not only the sale and purchase of goods or products but also cover wide amplitude of technology and information transfer/re-transfer shipment etc.
+
+Employees are required to screen all transactions in accordance with applicable export/import requirements/laws. They are charged with the duty know the client to whom an item/information is being exported or information is being transferred (be it information embedded in software or via email), the end use of the item/information and its final destination.
+
+Krenovate's general policy is not to undertake work or service which will be used directly for any military/defence/security product or service. An exception to this may be obtained with explicit authorisation from the Executive Team, in consultation with the Legal Department.
+
+
+### **_Compliance with Anti-boycott laws and Embargoes_**
+
+Krenovate's policy is not to participate in boycotts, embargoes or other restrictive trade practices prohibited or penalized under applicable local laws of the countries in which business is conducted, unless sanctioned by the Government. Thus, Krenovate strongly advocates that its Employees and Representatives are aware of all such laws and consults the Legal Department in case of doubts.
+
+
+
+## **Fair Dealings**
+
+Krenovate is committed to fair and unprejudiced dealing with all persons and companies with whom it  has business relationships, including its clients, partners and suppliers (hereinafter referred to as "Business Associates"). In deaiing with Krenovate's Business Associates, Employees and Representatives are expected to consider the best interests of Krenovate and should not show any favour or preference to any person, entity or business. Krenovate strongly advocates that all of its Employees should have business dealings that are impartial and are not influenced by their personal or family interests. An Employee or Representative should not:
+
+-   Own any substantial amount of stock or other financial interest in, or participate in the business of, an actual or potential client or supplier of goods or services to Krenovate, if that Employee or Representative is directly or indirectly involved in Krenovate's business with the client or supplier. The definition of what constitutes a "substantial" amount of stock or other financial interest will depend on the particular facts and circumstances in any given case. For queries in this regard, contact the Legal Department.
+-   Not seek or accept loans from any supplier or client or any person or entity seeking to do business with Krenovate, except in the case of loans made by financial institutions in the normal course of business.
+-   Not purchase items for personal use on a discounted or wholesale basis from actual or potential suppliers of goods and services to Krenovate, unless the personal purchases are made pursuant to an approved supplier discount program.
+
+Each Employee and Representative should endeavour to respect the rights of and deal fairly with all clients, suppliers, competitors and Employees. No Employee or Representative should take unfair advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of material facts, or any other illegal trade practice, All Employees and Representatives are responsible for avoiding activities which could damage the Company's reputation or its relationships with its actual and potential suppliers or clients.
+
+
+## **Gifting and Entertainment**
+
+It is against Krenovate policy to give or receive anything of value to gain an unreasonable competitive advantage.
+
+-   No Employee and Representative shall, solicit or accept gifts, favours, loans or preferential treatment from any person or entity that does business or seeks to do business with Krenovate.
+-   Employees and Representatives are prohibited from offering bribes, kickbacks, illegal political contributions or other improper payments to any client, government official or third party that may fall outside the parameters of applicable laws and evoke any adverse action against Krenovate and creates the impression of seeking an improper advantage.
+-   No Employee and Representative shall, in violation of any applicable law, make or offer to make directly or indirectly, through any other person or firm, any payment of anything of value (money, gift, contribution, etc.), significant gifts or provide any extravagant entertaintnent to a client or supplier without approval.
+
+Krenovate shall endeavour to employ only reputable, qualified individuals and firms who agree to be bound by and act in accordance with the provisions of this policy, to act as employees, consultants, partners, agents or sales representatives.
+
+
+## **Insider Trading and Stock Tipping**
+
+Employees and Representatives, who have access to inside information (also known as material non— public/unpubiished price sensitive information), are not permitted to use or share such information for any purpose other than to conduct Krenovate business. All non-public information about Krenovate, or companies/clients with whom Krenovate does business, is considered confidential information. To misuse material non-public information in connection with buying or selling securities, including tipping others who might make an investment decision on the basis of this information, is illegal and is strictly prohibited by Krenovate.
+
+In order to avoid vioiating laws related to insider trading and tipping, each Employee or Representative who has inside information about Krenovate, or about another company that he or she has obtained by virtue of his or her position with Krenovate, is expected to abide by the following guidelines:
+
+-   Never buy, sell or suggest to someone else (including family members) that they should buy or sell stock or other securities of any company while you are aware of material non-public information about that company. Material non-public information is the information which is unavailable to the public and that which an ordinary investor would consider as important while making an investment decision.
+-   Donot pass on or disclose material non-public information unless necessary far the conduct of Krenovate business — and never pass on or disclose such information if you are not authorised to do so and suspect that the information will be used for an improper trading purpose.
+-   Do not evade these guidelines by acting through anyone else or by giving material non-public information to others for their use even if you will not financially benefit from it directly.
+
+All queries in this regard should be referred to the Legal Department.
+
+
+## **Financial Controls, Records and Auditing**
+
+Krenovate is required by law to keep and preserve all corporate and businesses records accurately and honestly and report any financial irregularity. The integrity of our records and public disclosure depends upon the validity, accuracy and completeness of the information supporting the entries in our books of account. Financial statements and reports are prepared in accordance with the generally accepted accounting principles, standards, laws and regulations for accounting and financial reporting of transactions, estimates and forecasts. Making of false or misleading entries is strictly prohibited. Financial statements and accounting records are also relied upon to produce reports for our Executive Team, stockholders and creditors, as well as for various governmental/statutory bodies. Employees, who collect, provide or analyze information for or otherwise contribute in any way in preparing or verifying the financial reports should strive to ensure that our financial disclosure is accurate and transparent.
+
+In furtherance of this policy, all Employees and Representatives shall:
+
+-   Follow all accounting and reporting procedures.
+-   Be accurate, timely and complete in preparing and maintaining all required records and reports.  
+-   Obtain all required approvals before releasing any financial information outside Krenovate.
+-   Ensure that all financial records and reports, whether in hard copy or electronic/computer-based format, are securely maintained.
+-   Grant Krenovate's internal and external auditors and other authorised individuals access to all appropriate Krenovate records and provide them with accurate and complete information as they may from time to time require.
+-   Promptly report any concerns about possible violations of this policy to the Whistleblower Committee (_For more information please refer to the **Krenovate's Whistleblower Policy**_). 
+
+Auditing: Krenovate is committed to providing accurate information to external and internal auditors in a timely, orderly and consistent manner. Employees are prohibited from directly or indirectiy taking any action to manipulate, mislead or fraudulently influence the external and internal auditors. Prohibited actions include:
+
+1.  To issue or reissue a report on the Company's financial statements that is not warranted in the circumstances (due to material violations of generally accepted accounting principles, generally accepted auditing standards or other professional or regulatory standards);
+2.  Not to perform audit, review or other procedures required by generally accepted auditing standards or other professional standards;
+3.  Not to withdraw an issued report; or
+4.  Not to communicate matters to the Audit Committee.
+
+## **Commitment to Society**
+
+### **_Environment, Health and Safety_**
+
+Krenovate strives to connply with all relevant environmental, health and safety laws and regulations and to provide each Employee and Representative with a safe and healthy work environment. Each Employee has the responsibility of maintaining a safe and healthy workplace for all Employees and Representatives by following environnnental, safety and health rules, practices and reporting accidents, injuries and unsafe equipment, practices or conditions.
+
+All Employees and Representatives are expected to:
+
+-   Refrain from any acts that may pollute the environment
+-   Refrain from any acts that violates any environmental, health and safety laws and regulations
+-   Maintain a clean end healthy workspace that does not present any hazard to any one
+-   Report circumstances, that might lead to health and safety risks for Employees or the general public, for timely corrective action
+
+
+
+
+## **Media Communication Guidelines of Krenovate**
+
+Krenovate is committed to providing accurate information to the public in a timely, orderly and consistent manner. Krenovate will comply with applicable laws and regulations regarding the required mandatory legal disclosures. The Executive Team members are the designated spokespersons for Krenovate and they may from time to time designate other persons (via a written approval) to speak on behalf of Krenovate with respect to a specific issue or to respond to specific inquiries from the investment community or the media.
+
+Specifically, Krenovate prohibits the disclosure of non-public corporate material information to media, securities market, investors and potential investors, unless the communication is made:
+
+1.  To a person who owes a duty of trust or confidence to Krenovate
+2.  To a person who has signed a confidentiality agreement
+3.  To a rating agency, for the sole purpose of developing a credit rating that will be publicly available
+
+Information is "material" if there is a substantial likelihood that a person/entity would consider it important in making an investment decision.
+
+"Non-public" information is any information that has not been disseminated in a manner reasonably designed to make it generally available to public.
+
+Any Employee or Representative who receives an inquiry from the investors or the media must immediately refer the inquirer to an Executive Team Member.
+
+All Employees and Representatives are required to adhere to the guidelines and protocol which may be connunicated to them from time to time.
+
+## **Reporting Violations of Code**
+
+Every Employee and Representative has a duty to adhere to this Code and all existing policies and procedures of Krenovate and to report any suspected violations in accordance with the procedure stated in the Whistleblower Policy. Employees and Representatives must adhere to the letter and spirit of the Code. It is reiterated that this Code is not intended to be totally comprehensive and Krenovate therefore relies on its Employees and Representatives to exercise discretion and engage in ethical conduct consistent with this Code.
+
+Violations/Non-compliance of this Code may subject the violator to individual criminal or civil liability
+(inciuding penalties, fines etc.), as well as to strict disciplinary action by Krenovate (including dismissal). Disciplinary action may also be taken for: authorising or participating in a violation, knowingly failing to report a violation or suspected violation, refusing to cooperate with the investigation of a suspected violation, retaliating against an individual who reported a suspected violation in good faith.
+
+Any complaint/concern/incident/violation/non-compliance should be reported in to the Krenovate Whistleblower Committee (*Refer to the **Krenovate Whistleblower Policy** for more information*).
+
+
+## **Changes and Waivers**
+
+Any waiver of this Code can be made only by express approval of the Board of Directors and to the extent permitted by relevant laws and regulations and will be promptly disclosed as required by a law or a regulation.
+
+## **Acknowledgement of this policy is annexed as Annexure A**
+
+

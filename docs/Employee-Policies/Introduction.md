@@ -25,7 +25,7 @@ Executive Team refers to the members of the senior management and includes the C
 ## **List of Policies**
 
 1.  [Code of Business Conduct and Ethics](Code-of-Business-Conduct-and-Ethics.md)
-2.  End-User Computing Policy
+2.  [End-User Computing Policy](End-User-Computing-Policy.md)
 3.  Research Ethical Guidelines
 4.  Anti-Sexual Harassment Policy
 
