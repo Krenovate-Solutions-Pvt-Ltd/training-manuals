@@ -26,13 +26,19 @@ Executive Team refers to the members of the senior management and includes the C
 
 1.  [Code of Business Conduct and Ethics](Code-of-Business-Conduct-and-Ethics.md)
 2.  [End-User Computing Policy](End-User-Computing-Policy.md)
-3.  Research Ethical Guidelines
-4.  Anti-Sexual Harassment Policy
+3.  [Research Ethical Guidelines](Research-Ethical-Guidelines.md)
+4.  [Anti-Sexual Harassment Policy](Anti-Sexual-Harassment-Policy.md)
 
+## **List of Declarations/Undertakings**
 
-## **List of Undertakings/Acknowledgements**
+1.  [Declaration regarding Trading Account(s)](Declaration-Trading-Account.md)
+2.  [Non-Tampering Undertaking](Non-Tampering-Undertaking.md)
+3.  [Acknowledgement of Punitive Action](Acknowledgement-Punitive-Action.md)
+4.  [Compliance of Company Policies Undertaking](Compliance-Company-Policies-Undertaking.md)
 
-1.  Code of Business Conduct and Ethics
-2.  End-User Computing Policy
-3.  Research Ethical Guidelines
-4.  Anti-Sexual Harassment Policy
+## **List of Annexures**
+
+1.  [Annexure A](Annexure-A.md)
+2.  [Annexure B](Annexure-B.md)
+3.  [Annexure C](Annexure-C.md)
+4.  [Annexure D](Annexure-D.md)
