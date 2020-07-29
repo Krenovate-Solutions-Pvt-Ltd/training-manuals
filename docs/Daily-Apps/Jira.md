@@ -1,13 +1,15 @@
 # **Jira**
 
-## **_Introduction_**
+## **Introduction**
 
 JIRA is a tool developed by Australian Company Atlassian. It is used for bug tracking, issue tracking, and project management. 
 The basic use of this tool is to plan, track, and release software.
 
 At Krenovate, Jira is the most important used app due to it's project management and task tracking tools.
 
-## **_Account Creation_**
+This manual is focussed on the Users/team members. It has been designed keeping in mind the steps to be taken by the Team members.
+
+## **Account Creation**
 
 Your account on Jira will be created by the HR department. And you will get a link for logging into your account on your official email ID. 
 
@@ -18,7 +20,7 @@ Once you create your account, please contact your manager to assign you to relev
 
 ![jira active](../images/Initial-images/Jira/Jiraactivate.jpg)
 
-## **_Logging In_**
+## **Logging In**
 
 To log in, please visit - krenovate.atlassian.net and click on the sign in button. Please use your credentials to log in. 
 
@@ -29,7 +31,7 @@ For free tutorial visit:
 https://www.atlassian.com/software/jira/guides
 
 
-## **_Key terms to know_**
+## **Key terms to know**
 
 *   **_Tasks_**
 
@@ -138,94 +140,144 @@ https://www.atlassian.com/software/jira/guides
 [Watch the tutorial to understand the key terms](https://www.youtube.com/watch?v=tVS5YbHBjQw)
 
 
-## **_Task Allocation and Management_**
+## **Task Allocation and Management**
 
-### **_Description of Task_**
+Tasks in Jira are allocated by your Manager. Below are a few tasks which are to be handled ONLY by managers:
+
+-   Create a Project
+-   Assign issues to Users
+-   Manage Users/Team members
+-   Track time for users
+
 
 As a user, the most important thing to understand is the tasks allocated to you and how to manage them.
 
-In this section we will discusss ablout task allocation in detail.
+In this section, we will discusss about tasks allocated to you in detail.
 
-Once, your Jira account is activated: 
+Once, your Jira account is activated, your manager will assign tasks to you.
 
-*   Your manager will assign tasks to you.
-*   You will receive an email intimation for task assigned. 
+### **_How to view your task_**
+
+There are different ways to view your tasks:
+
+**Email:**
+
+-   You will receive an email intimation for task assigned. 
 
 ![taskmail](../images/Initial-images/Jira/taskmail.jpg)
 
-*   Click on "View Issue". You will be taken to the task description page in Jira.
+*   Click on "View Issue" -  You will be taken to the task description page in Jira.
+
+**Browser:**
+
+-   Login to your Jira account
+-   Go to -> Projects
+-   Choose the project assigned to you.
+
+![choose project](../images/Initial-images/Jira/chooseproject.jpg)
+
+-   Go to -> Backlog
+-   You will see list of tasks assigned to you
+
+![issue list](../images/Initial-images/Jira/issuelist.jpg)
+
+-   Click on the issue to be worked on
+
+![choose issue](../images/Initial-images/Jira/chooseissue.jpg)
+
+
+### **_Description of Task_**
+
+Task description will tell you all about the work to be done under that task.
 
 ![taskdesc](../images/Initial-images/Jira/taskdesc.jpg)
-    Task description will tell you about all the work to be done under that task.
 
-*   On the right side of the screen various options are available:
+#### **_Top Panel_**
 
-    *   Status of the task:
+The top panel of the description page shows options as below:
 
-        *   When task is assigned it shows "To Do"
-        *   Task should never be marked as "In Progress"
+-   **Name of the issue:** It shows the name of the issue.
 
-        ![taskstatus](../images/Initial-images/Jira/taskstatus.jpg)
+    ![issue name](../images/Initial-images/Jira/issuename.jpg)
 
-    *   Assignee: It is the user name who is assigned the task.
-    *   Reporter: This shows your manager name
-    *   Time Tracking: This shows the duration of time spent in performing the task.
+-   **Attach:** You can attach relevant files, images from the attachment tab below the task name.
 
-        *   Time is tracked using the [Hubstaff Recorder App](Hubstaff-Recorder-App.md)
+    ![attach](../images/Initial-images/Jira/attach.jpg)
+
+
+-   **Create Sub-task:**
+
+    *   Within the assigned task, you can add sub-tasks to organise your work.
+    *   Click on Create Subtask
+
+    ![subtask](../images/Initial-images/Jira/subtask.jpg)
+
+    *   Enter the description of the sub-task and click on create.
+
+    ![subtask1](../images/Initial-images/Jira/subtask1.jpg)
+
+
+#### **_Right Side Panel_**
+
+On the right side of the screen various options are available which are described below:
+
+-   **Status of the task:**
+
+    *   When task is assigned it shows "To Do"
+    *   Task should never be marked as "In Progress"
+
+    ![task status](../images/Initial-images/Jira/taskstatus.jpg)
+
+-   **Assignee:** It is the name of the user to whom  the task is assigned to.
+
+    ![assignee](../images/Initial-images/Jira/taskassignee.jpg)
+
+
+-   **Reporter:**  This shows your manager name
+
+    ![reporter](../images/Initial-images/Jira/taskreporter.jpg)
+
+-   **Time Tracking:** This shows the duration of time spent in performing the task.
+
+    ![time track](../images/Initial-images/Jira/timetracking.jpg)
+
+Note: Time is tracked using the [Hubstaff Recorder App](Hubstaff-Recorder-App.md)
+
   
-    *   Sprint: Shows the name of the active sprint of which the task is a part.
-    *   Priority: Here the priority can be set as low, medium, high depending on the project requirement.
+-   **Sprint:** Shows the name of the active sprint of which the task is a part.
 
-![taskoptions](../images/Initial-images/Jira/taskoptions.jpg)
+    ![sprint](../images/Initial-images/Jira/sprint.jpg)
+
+-   **Priority:** Here the priority can be set as low, medium, high depending on the project requirement.
+
+    ![priority](../images/Initial-images/Jira/priority.jpg)
 
 
-### **_Commenting & Discussing_**
+#### **_Bottom Panel_**
 
-While you're working on an issue, you will probably need to share some information, clarify some
+The Bottom panel shows details of various activities occuring in the issue.
+
+-   **Comments:**  While you're working on an issue, you will probably need to share some information, clarify some
 requirements, or discuss some details about the issue with your team. This is easy to do with issue comments:
 
-*   You can comment, attach files, send links through the comment section of the task.
-*   To email other users about your comment, simply mention these users in the Comment text box (by
-typing @User's Name). An email will be sent to the users' email addresses that are registered with
-their JIRA accounts.
-*   All formatting options are available within.
-*   Click on Save
+    *   You can comment, attach files, send links through the comment section of the task.
+    *   To email other users about your comment, simply mention these users in the Comment text box (by typing @User's Name). An email will be sent to the users' email addresses that are registered with their JIRA accounts.
+    *   All formatting options are available within.
+    *   Click on Save
 
-![taskcomment](../images/Initial-images/Jira/taskcomment.jpg)
+    ![taskcomment](../images/Initial-images/Jira/taskcomment.jpg)
 
-*   Once you add a comment, a mail notification is received by the tagged person.
+    *   Once you add a comment, a mail notification is received by the tagged person.
 
-![commentnotification](../images/Initial-images/Jira/commentnotification.jpg)
+    ![commentnotification](../images/Initial-images/Jira/commentnotification.jpg)
 
-###  **_History_** 
-
-The history tab gives a detailed view of all the activity that takes place while performing the task.
+-   **History:** The history tab gives a detailed view of all the activity that takes place while performing the task.
 
 ![taskhistory](../images/Initial-images/Jira/taskhistory.jpg)
 
-### **_Work Log_**
-
-The work log tab shows the time spent of doing the task.
+-   **Work Log:** The work log tab shows the time spent of doing the task.
 
 ![tasklog](../images/Initial-images/Jira/tasklog.jpg)
-
-
-### **_Attachments & Files_**
-
-*   You can attach relevant files, images from the attachment tab below the task name.
-
-![taskattach](../images/Initial-images/Jira/taskattach.jpg)
-
-### **_Creating a Sub-task_**
-
-*   Within the assigned task, your can add sub-tasks to organise your work.
-*   Click on Create Subtask
-
-![subtask](../images/Initial-images/Jira/subtask.jpg)
-
-*   Enter the description of the sub-task and click on create.
-
-![subtask1](../images/Initial-images/Jira/subtask1.jpg)
 
 
 ### **_Marking Task Complete_**
@@ -234,10 +286,9 @@ The work log tab shows the time spent of doing the task.
 issue.
 *   Select "Done" in the task status option.
 
- ![task done](../images/Initial-images/Jira/taskdone.jpg)
+![task done](../images/Initial-images/Jira/taskdone.jpg)
 
-
-## **_Tutorials and User Guides_**
+## **Tutorials and User Guides**
 
 Follow the below useful links for more information:
 
@@ -247,7 +298,7 @@ Follow the below useful links for more information:
 *   https://www.tutorialspoint.com/jira/jira_tutorial.pdf
 
 
-## **_To Do List_**
+## **To Do List**
 
 Once you finish the training, follow the below task list. Finishing these tasks would mark your Jira training complete.
 

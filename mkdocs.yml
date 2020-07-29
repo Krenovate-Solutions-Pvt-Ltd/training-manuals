@@ -2,6 +2,7 @@ site_name: Training Manual
 nav:
   - Employee Policies:
     -  Introduction: 'Employee-Policies/Introduction.md'
+    -  About Krenovate: 'Employee-Policies/Mission-Vision.md'
     -  Code of Business Conduct and Ethics: 'Employee-Policies/Code-of-Business-Conduct-and-Ethics.md'
     -  End User Computing Policy: 'Employee-Policies/End-User-Computing-Policy.md'
     -  Research Ethical Guidelines: 'Employee-Policies/Research-Ethical-Guidelines.md' 
