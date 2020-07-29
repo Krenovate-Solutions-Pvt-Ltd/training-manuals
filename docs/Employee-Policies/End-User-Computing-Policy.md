@@ -185,6 +185,56 @@ Fraudulent behaviour can cause losses to Krenovate. Users must understand and im
 
 ### **_Internet Usage_**
 
+The following points describe the policy on Internet usage by users of Krenovate:
+
+-   Internet access will be permitted based on the business need after the approval from the Business Head.
+-   Users will be restricted from accessing all web-based e-mail sites, chat sites, online music, gaming, entertainment, hacking, proxy avoidance, social networking, peer-to-peer file sharing and pornographic sites; using instant messengers; and downloading wall papers, screensavers, software applications and other websites that are not required for business purposes, unless expressly permitted by Krenovate.
+-   Users will use only Microsoft Internet Explorer for Web browsing and Microsoft Office Communicator for instant messaging.
+-   All web browsers would be configured with CISO approved secure gateway proxy. These systems will prevent all services except those which are explicitly allowed. 
+-   Users must not use Internet resources for soliciting business, selling personal products or otherwise engaging in commercial activities other than those expressly permitted which might cause adverse publicity of Krenovate.
+-   Users must be aware that access to the Internet will be logged and monitored. The management retains the right to inspect any and all files stored on or transmitted over its network assets (including but not limited to local storage media, memory and mail files) for the purpose of investigating suspected violations of its business policies or non-compliance with local regulations. 
+-   Users will not attempt to probe other systems in the external world for security weaknesses, compromise other systems, possess or transfer data illegally, or send offensive or abusive messages.
+-   Users will not claim to represent Krenovate on the Internet unless authorised to do so by the management.
+-   Data and/or programs should be downloaded from the Internet to Krenovate network only under the following conditions:
+
+    -   Downloaded data and programs should be checked for virus using an approved methodology and tools before it is stored on the network.
+    -   Data and/or programs should be  business-relevant and appropriate, and will be acquired and  used in compliance with all the legal requirements.
+    -   Users will not download and install any programs or software themselves. They will request the IT department to do so.
+    -   Downloaded programs or executable applications should be checked for suitability, compatibility and security before being installed on the network.
+
+
+### **_Clean Desk and Clear Screen_**
+
+-   Adequate controls will be exercised to reduce the risk of unauthorised access, loss of and damage to the information available in the form of paper, stored on computer and removable media during and after the normal working hours.
+-   Employees will store information assets, such as printouts of client deliverables and notepads containing client data, at a secured place when not in use, especially after working hours.
+-   Documents classified as confidential and restricted will be maintained in specified locations provided for in each business function/process.
+-   Any document containing sensitive or critical business information should be removed from printers as soon as possible.
+-   Users will protect the personal computers and terminals with adequate controls (workstation locks, passwords, etc.) when not in use and will log off/shut down when leaving the office.
+
+
+### **_Disciplinary Action_**
+
+Krenovate reserves the right to take disciplinary action against users. It may occur because of many reasons including but not lirnited to the following:
+
+-   When an instance of non-compliance of security policies and processes is suspected or discovered, the CISO will work with the user's group/department head to determine the proper investigative and disciplinary action. Criminal or civil action may be initiated in appropriate instances, if deemed necessary. Global Head- Human Resources will be responsible for all disciplinary activities at Krenovate.
+-   When users attempt to remove malfunctioning software, without the support of appropriately trained and experienced staff, thereby resulting in compromising the security of and/or affecting other EVS resources.
+-   When users attempt to prove (or test) a suspected security weakness under any circumstances. Such action on part of users would be interpreted, as a potential misuse of Krenovate's resources.
+-   Tampering with data or attempting to circumvent the flow of data as this is strictly prohibited.
+-   Any use of information processing facilities for non-business purposes without management approval or for any unauthorised activity.
+
+## **Exceptions to End-User Computing Policy**
+
+-   **Scanning, floppy, CD burning facility:** In case of a business need, users can avail scanning and floppy/CD burning facility for sending data/deliverables to clients. They will have to seek approval from the CISO/designated ISG member to avail this facility.
+-   **Administrative privileges/Backup rights:** Only the IT network team has access to the stored data on the network file servers apart from project team. They require this access to take back-up of the data and for server administration.
+-   **Remote monitoring/administration software:** IT Network team can use ISG-approved Remote Control/Monitoring software for remotely addressing or resolving a user's problem or for auditing/logging/monitoring a user's activity.
+-   **Cybercafes:** Employees can use cybercafe facility provided by Krenovate for surfing the internet.
+-   **Web access of Krenovate mails:** At Krenovate nly the senior management, AVPs and Client Executives have been provided web access to their official corporate e-mails. Besides this, only a few users who are stationed outside Krenovate premises for business purpose are allowed to access their e-mails for a limited period subject to CISO and business head's approval.
+-   **Client specific policies:** In addition to the standard Krenovate Information Security Policy, the  client dedicated areas will be governed by the security policy and compliance guidelines framed by the respective client.
+
+
+## **Acknowledgement of Policy is annexed as Annexure B**
+
+
 
 
 
