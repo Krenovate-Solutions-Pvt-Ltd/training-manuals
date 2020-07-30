@@ -1,6 +1,6 @@
 # **Markdown**
 
-## **_Introduction_**
+## **Introduction**
 
 Markdown is a way to write content for the web. It’s written in what people like to call “plaintext”, which is exactly the sort of text you’re used to writing and seeing. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( * ) and backticks ( ` ).
 
@@ -19,7 +19,7 @@ You might be wondering why people use Markdown instead of using a simpler editor
 *   Markdown is *everywhere*. Websites like Reddit and [GitHub](GitHub.md) support Markdown, and lots of desktop and web-based applications support it.
 
 
-## **_Writing in Markdown_**
+## **Writing in Markdown**
 
 Markdown uses basic syntax to format the content. 
 
@@ -29,7 +29,7 @@ Formatting text in Markdown has a very gentle learning curve. It doesn’t do an
 
 This [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) provides a quick overview of all the Markdown syntax elements.
 
-## **_Getting Started_**
+## **Getting Started**
 
 The best way to get started with Markdown is to use it. 
 
@@ -41,7 +41,7 @@ Follow the steps in the below video:
 
 
 
-## **_Help & Guides_**
+## **Help & Guides**
 
 *   https://www.markdownguide.org/
 
@@ -50,7 +50,7 @@ Follow the steps in the below video:
 
 
 
-## **_To Do List_**
+## **To Do List**
 
 Your Markdown training will be considered complete when you finish the below tasks:
 

@@ -1,6 +1,6 @@
 # **Hubstaff Web**
 
-## **_Introduction_**
+## **Introduction**
 
 Hubstaff is an employee time tracking software with screenshots, reporting, and automated payments.
 
@@ -8,7 +8,7 @@ To track time, your virtual workforce installs the tracking applications on your
 
  You can select a project, and Hubstaff will then track time and activity to that specific project, which becomes viewable in the web application.
 
-## **_Account Creation_**
+## **Account Creation**
 
 *   You will receive an email invitation from your the HR join Hubstaff.
 
@@ -31,7 +31,7 @@ This is the page that will create your account in Hubstaff:
 
 *   Click Go to join the organization which you have been invited to by your Employer.
 
-## **_Logging In_**
+## **Logging In**
 
 * Go to https://hubstaff.com/login
 * Sign in with your company email id
@@ -39,7 +39,7 @@ This is the page that will create your account in Hubstaff:
 ![hubstaff login](../images/Initial-images/Hubstaff-Web/hubstafflogin.jpg)
 
 
-## **_Things to know about Hubstaff Web_**
+## **Things to know about Hubstaff Web**
 
 Hubstaff’s Web Application provides a central location to access data regarding your/ teams’ tracking and performance.
 
@@ -51,14 +51,13 @@ Let's discuss the options available and their use.
   *   It provides an overview of your activity and the main statistics across the total hours tracked and total amount spent.
   *   The Recent Activity widget displays screenshot of activities where time has been tracked most recently.
 
-![dashboard](../images/Initial-images/Hubstaff-Web/hubstaffdashboard.jpg)
-
+![dashboard](../images/Initial-images/Hubstaff-Web/dashboard.jpg)
 
 ###   **Activity**
 
 The Activity section displays data tracked by the users, broken down into a detailed daily format.
 
-![activity](../images/Initial-images/Hubstaff-Web/hubstaffactivity.jpg)
+![activity](../images/Initial-images/Hubstaff-Web/activity.jpg)
 
 
 *   *Screenshots*
@@ -122,13 +121,13 @@ Under the Timesheets section, data regarding the time tracked by the users in a 
         *   It also shows a breakdown of how much time was spent per project.
         *   And, the total number of weekly hours worked.
 
-        ![weekly](../images/Initial-images/Hubstaff-Web/weeklytimesheet.jpg)
+        ![weekly timesheet](../images/Initial-images/Hubstaff-Web/weeklytimesheet.jpg)
 
     *   Calendar :
 
         *   The Calendar section displays the individual user’s timesheets in a calendar view.
   
-        ![calendar](../images/Initial-images/Hubstaff-Web/calendartimesheet.jpg)
+        ![calendar timesheet](../images/Initial-images/Hubstaff-Web/calendartimesheet.jpg)
 
 In all type of timesheets, it is possible to filter the data by user, source (how time was tracked), timezone, and date by clicking the relevant menu at the top of the screen.
 
@@ -142,7 +141,7 @@ In all type of timesheets, it is possible to filter the data by user, source (ho
 ![reports](../images/Initial-images/Hubstaff-Web/reports.jpg)
 
 
-## **_Help & Guides_**
+## **Help & Guides**
 
 For more ellaborate help visit the below links:
 
