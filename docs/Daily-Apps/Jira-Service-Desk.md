@@ -1,17 +1,17 @@
 # **Jira Service Desk**
 
-## **_Introduction_**
+## **Introduction**
 
 Jira Service Desk is simply modern service desk software. It brings more structure to your work, gives you increased visibility into what your team is up to, and helps your team members get more done, so you can deliver better service. It is used primarily:
 
 *   By teams who receive incoming issues/requests from other teams/customers.
 *   Is designed specifically for end-users to submit tickets to a help desk team.
 
-## **_Why use Jira Service Desk_**
+## **Why use Jira Service Desk**
 
 Jira Service Desk integrates directly with Jira and brings you all the power and productivity of Jira to your service desk teams in the below ways:
 
-*   An intuitive, customer-centered interface - It lets you craft easy-to-use forms for your users.
+*   An intuitive, customer-centered interface - It lets you craft easy-to-use forms for your users:
     *   Create clean and simple customer portals with clear calls to action.
     * Build templates for users to enter all the details you need.
     * Display contextual information, re-map statuses, and hide fields your users don’t need.
@@ -35,12 +35,12 @@ Jira Service Desk integrates directly with Jira and brings you all the power and
     * Apply SLA metrics retroactively to your current Jira data to observe trends
 
 
-## **_The difference between Jira and Jira Service Desk_**
+## **The difference between Jira and Jira Service Desk**
 
 *   *Jira*, is for internal teams to work together on issues/projects, whereas, *Jira Service Desk*. lets the end users submit tickets which can be tracked by the service desk team.
 *   *Jira*, can be very technical for people who don't use it everyday, whereas, *Jira Service Desk* is quick, and easy due to it's simple interface.
 
-## **_Jira Service Desk Features_**
+## **Jira Service Desk Features**
 
 Once you have navigated to your service desk, you’ll find the sidebar, which has helpful features which you may want to use:
 
@@ -61,7 +61,7 @@ Channels are where you can find the ways customers send you requests. Here, you 
 Project settings are where you can configure your service desk. Here, you can set up request types, link your service desk to an email account, manage users, and more.
 
 
-## **_Service Desk Project_**
+## **Service Desk Project**
 
 You can create *projects* in Jira Service Desk. Projects are service desks that provide help to customers. You can create multiple projects to give each service team in your organization their own service desk. For example, you might have a Finance, a HR, Facilities, IT or Legal service desk project.
 
@@ -70,13 +70,13 @@ Customers can access every service desk project that you’ve given them permiss
 Before you create a service desk project, you choose a project template for it. After you sign up for Jira Service Desk, you’re asked to choose a template for your first service desk project. Depending on your organization’s needs, we start your project with reports, request types and other tools. You can always configure your project later.
 
 
-## **_User types and Roles_**
+## **User types and Roles**
 
 Primarily there are two licensed roles: administrators and agents. The administrator sets up and configures service desk projects. The agent works in these projects.
 
 In this manual, we will focus on the agent role.
 
-### **_Agents_**
+### **Agents**
 
 The Service Desk Team Members who work on customer requests are termed as "Agents". An agent can:
 
@@ -86,16 +86,16 @@ The Service Desk Team Members who work on customer requests are termed as "Agent
 *   Read knowledge base content
 
 
-## **_Accessing Service Desk Projects_**
+## **Accessing Service Desk Projects**
 
 1.  Login to your Jira account.
-2.  Go to Projects.
+2.  Go to -> Projects.
 3.  Choose the Service Desk Project.
 
 ![accessproject](../images/Initial-images/Jira-Service-Desk/accessproject.jpg)
 
 
-## **_How a Service Desk works_**
+## **How a Service Desk works**
 
 Here's how your customers and service desk agents work together to resolve a request:
 
@@ -109,6 +109,7 @@ Here's how your customers and service desk agents work together to resolve a req
 
 
 [User Guide](https://support.atlassian.com/jira-service-desk-cloud)
+
 
 
 
