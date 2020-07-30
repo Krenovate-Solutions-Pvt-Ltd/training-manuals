@@ -1,6 +1,6 @@
 # **Visual Studio Code**
 
-## **_Introduction_**
+## **Introduction**
 
 
 " Edit, build, and debug with ease"
@@ -16,7 +16,7 @@ Features include support for:
 *   embedded Git
 *   multiple languages eg: python, C/C++, javascript, markdown etc.
 
-## **_Setup_**
+## **Setup**
 
 Getting up and running with Visual Studio Code is quick and easy. It is a small download so you can install in a matter of minutes and give VS Code a try.
 
@@ -38,7 +38,7 @@ Watch the small video to learn about the setup and basics of Visual Studio Code.
 
 https://code.visualstudio.com/docs/introvideos/basics
 
-## **_Using Basic Features in VS Code_**
+## **Using Basic Features in VS Code**
 
 Start your journey using Visual Studio Code with this set of introductory videos and articles! These videos are designed to give you an overview of VS Code's various features and quickly get you familiar with them.
 
@@ -82,13 +82,13 @@ Being able to keep your hands on the keyboard when writing code is crucial for h
 
 [Cheatsheet for Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-## **_Working with Github in VS Code_**
+## **Working with Github in VS Code**
 
 Using GitHub with Visual Studio Code lets you share your source code and collaborate with others. GitHub integration is provided through the GitHub Pull Requests and Issues extension.
 
 We use the [Desktop Github](Desktop-Github.md) to integrate the code with Github.
 
-## **_Markdown and Visual Studio Code_**
+## **Markdown and Visual Studio Code**
 
 At Krenovate, we use "Markdown" as the source code language. 
 
@@ -99,7 +99,7 @@ Working with Markdown files in Visual Studio Code is simple, straightforward, an
 Learn more about [Markdown](Markdown.md) here.
 
 
-## **_Help & Guides_**
+## **Help & Guides**
 
 *   [Visual Studio Code user guide](https://code.visualstudio.com/docs/introvideos/basics)
 

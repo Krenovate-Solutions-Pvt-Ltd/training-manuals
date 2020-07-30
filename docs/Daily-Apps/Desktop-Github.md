@@ -66,7 +66,9 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
 
 ## **Cloning a Repository from Github to Github Desktop**
 
-You can use GitHub to clone remote repositories to GitHub Desktop.
+There are 2 ways to clone repositories:
+
+### **Use GitHub to clone remote repositories to GitHub Desktop**
 
 *   Sign in to Github and Github Desktop before you start to clone.
 *   On Github, navigate to the main page of the repository.
@@ -82,6 +84,23 @@ You can use GitHub to clone remote repositories to GitHub Desktop.
 *   Click on "Clone"
 
 ![clone3](../images/Initial-images/Desktop-Github/clone3.jpg)
+
+### **Cloning in Desktop Github**
+
+-   Click on Current Repository tab
+-   Click Add -> Clone Repository
+
+![clone](../images/Initial-images/Desktop-Github/clone.jpg)
+
+-   A dialog box will appear with list of repositories you are part of.
+-   Choose the repository you want to clone.
+
+![choose repo](../images/Initial-images/Desktop-Github/chooserepo.jpg)
+
+-   In Local Path: choose the location on your system where you want to clone the repository.
+-   Click Clone
+
+![repo path](../images/Initial-images/Desktop-Github/repopath.jpg)
 
 ## **Creating a Branch**
 
@@ -138,8 +157,8 @@ GitHub Desktop tracks all changes to all files as you edit them. You can decide 
 To mark the training complete, finish the below tasks:
 
 1.  Clone a test repository.
-2.  Create a test branch
-3.  Commit changes made to the branch
+2.  Create a test branch.
+3.  Commit changes made to the branch.
 4.  Do a Pull request on the branch.
 
 
