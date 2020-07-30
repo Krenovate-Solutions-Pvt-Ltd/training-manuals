@@ -1,6 +1,6 @@
 # **GSuite**
 
-## **_Introduction_**
+## **Introduction**
 
 G Suite is a suite of cloud computing, productivity and collaboration tools, software and products developed by Google Cloud.
 
@@ -22,7 +22,7 @@ ______
 
 ## **Gmail**
 
-### **_Introduction_**
+### **Introduction**
 
 Gmail is a web-based email service, developed by Google. It has become popular for giving users large amounts of storage space, and for having threaded conversations and robust search capabilities.
 
@@ -39,11 +39,11 @@ Gmail is the foremost App that is used for all official correspondence at Krenov
 
 Once the agreement is accepted by the freelancer, the official email id would be activated. 
 
-### **_Account Creation_**
+### **Account Creation**
 
 A new email account is created by the Admin. The link would be sent to your personal email id. 
 
-### **_Account Activation_**
+### **Account Activation**
 
 Once you click on the activation link, the email id would be activated.
 
@@ -51,7 +51,7 @@ Once you click on the activation link, the email id would be activated.
 
 After the activation, you will be asked to login with the credentials sent to you and reset your password.
 
-### **_Account Verification_**
+### **Account Verification**
 
 You will receive a verification link on the new email id. 
 Clicking on the link, will verify your email id and will be ready to use.
@@ -60,7 +60,7 @@ Clicking on the link, will verify your email id and will be ready to use.
 
 Now, you are ready to receive official communication.
 
-### **_How to Login_**
+### **How to Login**
 
 *   Go to accounts.google.com
 *   Sign in with your Krenovate account credentials
@@ -76,7 +76,7 @@ When you login to your business email with your credentials, you reach the below
 
 This dashboard gives access to all the apps used at Krenovate.
 
-### **_FAQ's_**
+### **FAQ's**
 
 For any query/help, refer to below links:
 
@@ -112,7 +112,7 @@ ____
 
 ## **Google Drive**
 
-### **_Introduction_**
+### **Introduction**
 
 Google Drive is a file storage and synchronization service, described as "a place where you can create, share, collaborate, and keep all of your stuff".
 
@@ -120,22 +120,22 @@ Here, you can upload any type of file to the cloud, share them with others, and 
 
 You can sync files between any device and the cloud with apps for Microsoft Windows and Apple macOS computers, and Android and iOS smartphones and tablets.
 
-### **_How to access Google Drive_**
+### **How to access Google Drive**
 
 Few ways to reach the Google Drive:
 
-*  From browser/computer:
+**From browser/computer:**
 
-   *  Go to drive.google.com-> My-Drive
+*  Go to drive.google.com-> My-Drive
 
 ![drive](../images/Initial-images/Gsuite/drive.jpg)
 
-*  From Gmail
+**From Gmail:**
 
 ![Google Drive](../images/Initial-images/Gsuite/Googledrive.jpg)
 
 
-### **_Upload and store files_**
+### **Upload and store files**
 
 You can upload, view, share, and edit files with Google Drive. Type of files:
 
@@ -153,7 +153,7 @@ If you want to upload files like Microsoft Word documents, you can change a sett
 *   Next to "Convert Uploads," check the box.
 
 
-### **_Share files_**
+### **Share files**
 
 You can share the files and folders that you store in Google Drive with anyone in your work.
 
@@ -164,7 +164,7 @@ Access to files can be given to:
 
 When you share from Google Drive, you can control whether people can edit, comment on, or only view the file. 
 
-### **_FAQ's_**
+### **FAQ's**
 
 Find the Step-by-step help on below links:
 
@@ -206,9 +206,9 @@ For more training videos and cheat sheet, visit the below link:
 _____
 _____
 
-## **Google Calender**
+## **Google Calendar**
 
-### **_Introduction_**
+### **Introduction**
 
 Google Calendar is an online calendar intended to help keep track of time and schedules. 
 It integrates with Gmail for users to easily add events from email messages directly to the calendar.
@@ -220,26 +220,26 @@ Some additional features of G Suite Google Calender:
 *   Calendar integration with Google Sites
 *   Easy migration from Exchange, Outlook or iCal, or from .ics and .csv files.
 
-### **_How to access Google Calender_**
+### **How to access Google Calender**
 
 Few ways to reach your calendar:
 
-From browser/computer:
+**From browser/computer:**
 
 *   Go to-> calender.google.com
 
 ![Calendar1](../images/Initial-images/Gsuite/calendar1.jpg)
 
-From GSuite Dashboard:
+**From GSuite Dashboard:**
 
 ![Google Calendar](../images/Initial-images/Gsuite/Googlecalender.jpg)
 
-From Gmail
+**From Gmail:**
 
 ![Calendar](../images/Initial-images/Gsuite/Calendar.jpg)
 
 
-### **_Creat Meeting & Invite people_**
+### **Create Meeting & Invite people**
 
 *   Go to Google Calendar
 *   Click on Create or an empty time on the calendar
@@ -254,14 +254,14 @@ From Gmail
 
 ![Calendar Invite](../images/Initial-images/Gsuite/Calendarinvite.jpg)
 
-### **_Accept and Reject Meetings_**
+### **Accept and Reject Meetings**
 
 *   Open the invitation email, or the event that was added to your calendar.
 *   In the "Going?" section, click Yes, No, or Maybe.
 
 ![Calendar Accept](../images/Initial-images/Gsuite/Calenderaccept.jpg)
 
-### **_FAQ's_**
+### **FAQ's**
 
 Know your Google Calendar better:
 
@@ -303,7 +303,7 @@ _____
 
 ## **Google Docs/Sheets/Slides/Forms**
 
-### **_Introduction_**
+### **Introduction**
 
 Google Docs, Google Sheets and Google Slides are respectively a word processor, a spreadsheet and a presentation program, which are integrated into Google Drive. They all serve as collaborative software that:
 
@@ -312,26 +312,26 @@ Google Docs, Google Sheets and Google Slides are respectively a word processor, 
 *   Provides capability to give various permissions - view, comment, edit, download.
 
 
-### **_How to access Google Docs/Sheets/Slides_**
+### **How to access Google Docs/Sheets/Slides**
 
 Few ways to reach your editors:
 
-From browser/computer:
+**From browser/computer:**
 
 *   Go to-> drive.google.com
 
 ![googledocs](../images/Initial-images/Gsuite/Googledocs.jpg)
 
-From GSuite Dashboard:
+**From GSuite Dashboard:**
 
 ![doc1](../images/Initial-images/Gsuite/googledocs1.jpg)
 
-From Gmail:
+**From Gmail:**
 
 ![docs2](../images/Initial-images/Gsuite/Googledocs2.jpg)
 
 
-### **_Creating Sheets_**
+### **Creating Sheets**
 
 1.  Go to Google Docs/Sheets/Slides
 2.  Click on Start new document/spreadsheet/presentation
@@ -340,7 +340,7 @@ From Gmail:
 ![create docs](../images/Initial-images/Gsuite/createdocs.jpg)
 
 
-### **_Sharing Sheets_**
+### **Sharing Sheets**
 
 1.  Go to Google Docs/Sheets/Slides
 2.  Click on the file you want to share
@@ -348,7 +348,7 @@ From Gmail:
 
 ![share doc](../images/Initial-images/Gsuite/sharedoc.jpg)
 
-### **_FAQ's_**
+### **FAQ's**
 
 For help on Google Docs/Sheets/Slides, click on the relevant links.
 
@@ -398,7 +398,7 @@ _____
 
 ## **Google Meet**
 
-### **_Introduction_**
+### **Introduction**
 
 Google Meet is a video-communication service developed by Google. It is one of two apps that constitute the new version of Google Hangouts, the other being Google Chat.
 
@@ -410,9 +410,9 @@ At Krenovate, we use Google Meet:
 
 *  for scheduled and instant video meetings or to join a video call. 
 
-### **_Start/Schedule Meeting_**
+### **Start/Schedule Meeting**
 
- From Gmail:
+ **From Gmail:**
 
 *   In the sidebar, click *Start a Meeting*.
 
@@ -420,7 +420,7 @@ At Krenovate, we use Google Meet:
 
 ![meet start](../images/Initial-images/Gsuite/Meetstart1.jpg)
 
-From Calendar:
+**From Calendar:**
 
 *   Click *Create +*
 *   Add your event details and guests.
@@ -430,35 +430,35 @@ From Calendar:
 ![meet start1](../images/Initial-images/Gsuite/meetstart2.jpg)
 
 
-### **_Join Meeting_**
+### **Join Meeting**
 
-From Gmail:
+**From Gmail:**
 
 *   In the sidebar, click Join a meeting and enter a meeting code.
 
 ![join1](../images/Initial-images/Gsuite/meetjoin1.jpg)
 
-From Calendar:
+**From Calendar:**
 
 *   Click the event, then click Join with Google Meet.
 
 ![join2](../images/Initial-images/Gsuite/meetjoin2.jpg)
 
 
-From Meet:
+**From Meet:**
 
 *   Join a scheduled meeting or use a meeting code.
 
 ![join3](../images/Initial-images/Gsuite/meetjoin3.jpg)
 
-From mobile devices:
+**From mobile devices:**
 
 *   Open the Android or Apple® iOS® Meet app.
 
 ![join4](../images/Initial-images/Gsuite/meetjoin4.jpg)
 
 
-### **_FAQ's_**
+### **FAQ's**
 
 1.  Introduction to Google Meet:
 
@@ -493,7 +493,7 @@ ____
 
 ## **Google Hangouts**
 
-### **_Introduction_**
+### **Introduction**
 
 Google Hangouts is the chat app built into the free version of Gmail, and it also offers video chat.
 
@@ -505,9 +505,9 @@ Hangouts syncs automatically across devices. If you start a Hangout on your comp
 *   Make phone calls using wi-fi or data.
 *   Send text messages with your Google Voice.
 
-### **_How to access Hangouts_**
+### **How to access Hangouts**
 
-From Gmail:
+**From Gmail:**
 
 *   In the sidebar, click *Chat*.
 *   Add contacts and start messaging.
@@ -515,14 +515,14 @@ From Gmail:
 ![chat1](../images/Initial-images/Gsuite/chat1.jpg)
 
 
-From GSuite Dashboard:
+**From GSuite Dashboard:**
 
 *   Go to gsuite.google.com
 *   Click on Google Hangouts
 
 ![chat2](../images/Initial-images/Gsuite/chat2.jpg)
 
-From Browser:
+**From Browser:**
 
 *   Go to hangouts.google.com.
 *   Enter your Google Account information.
@@ -531,7 +531,7 @@ From Browser:
 ![chat3](../images/Initial-images/Gsuite/chat3.jpg)
 
 
-### **_Sending and accepting invites_**
+### **Sending and accepting invites**
 
 *   Go to Hangouts
 *   Click on New Conversation
@@ -540,7 +540,7 @@ From Browser:
 
 ![chat4](../images/Initial-images/Gsuite/chat4.jpg)
 
-### **_Hangouts Group Chats_**
+### **Hangouts Group Chats**
 
 Hangouts group chat offers the privilege of conversing with many people at the same time. It gives easy access for sharing vital information, brainstorming and giving brief overviews of subject matters.
 
@@ -552,7 +552,7 @@ Few benefits of Hangout Group chats are:
 *   You can start and join a video call also.
 
 
-### **_FAQ's_**
+### **FAQ's**
 
 1.  Get started with Hangouts:
 
@@ -577,7 +577,7 @@ Few benefits of Hangout Group chats are:
 _____
 _____
 
-### **_Other GSuite Apps_**
+## **Other GSuite Apps**
 
 Many more apps avaiblable at Google Marketplace. Follow the link:
 
@@ -586,7 +586,7 @@ Many more apps avaiblable at Google Marketplace. Follow the link:
 ____
 ____
 
-## **_To Do List_**
+## **To Do List**
 
 Once, you have completed the above training, you are required to finish the below mandatory tasks. 
 

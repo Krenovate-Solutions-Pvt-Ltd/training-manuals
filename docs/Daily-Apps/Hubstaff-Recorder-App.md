@@ -1,10 +1,10 @@
 # **Hubstaff Desktop Client - Hubstaff Recorder**
 
-## **_Introduction_**
+## **Introduction**
 
 Hubstaff's Desktop Client/app is an easy way to keep track of time worked. It helps you record your time spent on various activities.
 
-## **_App Download_**
+## **App Download**
 
 Follow the below steps to Install and activate the app:
 
@@ -16,26 +16,58 @@ Follow the below steps to Install and activate the app:
 
 ![compatibility](../images/Initial-images/Hubstaff-Recorder-App/Hubstaffcompatibility.jpg)
 
-## **_Install & Sign in_**
+## **Install & Sign in**
 
 Install and sign in to the client with the Hubstaff user id and password.
 
 ![signin](../images/Initial-images/Hubstaff-Recorder-App/signin.jpg)
 
-## **_Time Tracking_**
+## **Time Tracking**
 
-* When you start the client and login, you’ll be presented with a number of projects for you to select.
+### **How the timer works**
 
-* You should always select the project that you are currently working on as these projects will be reflected in your reports in the Hubstaff web interface.
+The Hubstaff Recorder App has two parts:
 
-![timer](../images/Initial-images/Hubstaff-Recorder-App/HubstaffTimer.jpg)
+-  **_Left Side Panel_**
 
-* Check your “Activity” page on Hubstaff Web for screenshots, time and activity percentages.
+    When you start the client and login, you’ll see:
+
+   *   Timer on top
+   *   List of assigned projects. 
+   *   Select the project you want to work on.
+
+    ![left panel](../images/Initial-images/Hubstaff-Recorder-App/leftpanel.jpg)
+
+-   **_Right Side Panel_**
+
+    Once you have selected the project:
+
+    -   You will see a list of tasks in the selected project.
+    -   Start timer for the issue you have to work on.
+
+    ![timer](../images/Initial-images/Hubstaff-Recorder-App/HubstaffTimer.jpg)
+
+    **Note:** Task timer should ALWAYS be started on the right side.
+
+### **How the activity is recorded**  
+
+All the time recorded in the app is automatically visible on the Hubstaff Web page.
+
+Check your “Activity” page on Hubstaff Web for screenshots, time and activity percentages.
 
 ![activity](../images/Initial-images/Hubstaff-Recorder-App/HubstaffActivity.jpg)
 
+## **Important Tips**
 
-## **_Help & Guides_**
+Few things to keep in mind:
+
+-   When you start the Hubstaff Recorder, all your assigned tasks will be visible there.
+-   Time is recorded task wise; click only on the task you have to work on.
+-   This app is to track your task wise time; in case of more activities on the task, login to your Jira account.
+-   You can start/stop the timer any time when you want.
+
+
+## **Help & Guides**
 
 For more information on Hubstaff, follow the link below:
 
@@ -50,11 +82,21 @@ For more information on Hubstaff, follow the link below:
 *   [Watch Video](https://www.youtube.com/watch?v=O6nT3zdIVHY)
 
 
-## **_To Do List_**
+
+## **To Do List**
 
 When you complete the above training, do the below task to mark your training complete.
 
 1.  Share a screen shot of the assigned task which shows on the Recorder.
-2.  Try to log in time for the assigned task.
+
+    -   Open the Hubstaff Recorder
+    -   Take print screen by using one of the below methods:
+
+        -   shift+windowskey+S
+        -   ctrl+prtsc key
+        -   shift+command+3 (only for mac users)
+
+
+2.  Try to record time for the assigned task by starting the timer for that particular task.
 
 

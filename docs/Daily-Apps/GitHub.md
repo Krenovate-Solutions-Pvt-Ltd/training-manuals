@@ -1,12 +1,12 @@
 # **Github**
 
-## **_Introduction_**
+## **Introduction**
 
 GitHub brings teams together to work through problems, move ideas forward, and learn from each other along the way.
 
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Version controlling your document allows you to:
+**GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. Version controlling your document allows you to:**
 
 1.  Track developments and changes in your documents.
 2.  Record the changes you made to your document in a way that you will be able to understand later.
@@ -15,7 +15,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 5.  Revert changes, moving ‘backwards’ through your history to previous versions of your document.
 
 
-## **_Account Creation_**
+## **Account Creation**
 
 Follow the below steps:
 
@@ -24,21 +24,21 @@ Follow the below steps:
 
 ![Github Signup](../images/Initial-images/GitHub/Github%20Signup.jpg)
 
-## **_Account Verification_**
+## **Account Verification**
 
 *    Verify your email to complete signup
 
 ![Github Verify](../images/Initial-images/GitHub/Github%20verify.jpg)
 
-## **_Github Login_**
+## **Github Login**
 
-*    Go to: github.com
+*    Go to: www.github.com
 *    Click on Sign In
 *    Login with your credentials
 
 ![signin](../images/Initial-images/GitHub/signin.jpg)
 
-## **_Courses to do_**
+## **Courses to do**
 
 *    Once you login, choose the below training. It will be added to your repository, which can be accessed to learn the basics of GitHub at any time.
 *    Both these trainings will give basic knowledge about Github and Markdown.
@@ -48,9 +48,9 @@ Follow the below steps:
 
    
 
-## **_Key Terms about Github_**
+## **Key Terms about Github**
 
-*    **_Repository_**
+*    **Repository**
 
      *    A repository is usually used to organize a single project.
      *    It can contain folders, files, images, spreadsheets- anything a project needs.
@@ -59,32 +59,32 @@ Follow the below steps:
      ![homepage](../images/Initial-images/GitHub/homepage.jpg)
 
 
-*    **_Branch_**
+*    **Branch**
 
      *    Branching is the way to work on different versions of a repository at one time.
      *    By default your repository has one branch named "master" which is considered to be the definitive branch. 
      *    Every team member can clone the master branch to their own working branch.
 
 
-*    **_Commit_**
+*    **Commit**
 
      *    On GitHub, saved changes are called commits.
      *    Each commit has an associated commit message, which is a description explaining why a particular change was made.
      *    Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
-*    **_Pull Request_**
+*    **Pull Request**
 
      *    Pull Requests are the heart of collaboration on GitHub.
      *    When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
      *    Pull requests show diffs, or differences, of the content from both branches.
      *    The changes, additions, and subtractions are shown in green and red.
 
-*    **_Merge Pull Request_**
+*    **Merge Pull Request**
 
      *    In this final step, it’s time to bring your changes together – merging your edited branches into the master branch.
 
 
-## **_Github Flow_**
+## **Github Flow**
 
 Following is the GitHub flow:
 
@@ -96,12 +96,12 @@ Following is the GitHub flow:
 
 ![github flow](../images/Initial-images/GitHub/githubflow.jpg)
 
-## **_Collaboration with Github Desktop_**
+## **Collaboration with Github Desktop**
 
 For all the basic purpose we use the [Github Desktop](Desktop-Github.md) version, which lets you run all the basic commands for day to day work.
 
 
-## **_Help & Guides_**
+## **Help & Guides**
 
 *    https://docs.github.com/en/github/getting-started-with-github
 *    https://guides.github.com/activities/hello-world/
