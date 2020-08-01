@@ -27,7 +27,9 @@ Markdown uses basic syntax to format the content.
 
 Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.
 
-This [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) provides a quick overview of all the Markdown syntax elements.
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) : This provides a quick overview of all the Markdown syntax elements.
+
+[Emoji Cheat Sheet](https://gist.github.com/rxaviers/7360908) : Here you will find the complete list of Github Markdown emojis :smiley:
 
 ## **Getting Started**
 
@@ -37,7 +39,7 @@ The only thing you need to start is a markdown editor like [Visual Studio Code](
 
 Follow the steps in the below video:
 
-[Markdown for Beginners using Visual Studio Code](https://www.youtube.com/watch?v=UvaZzOkM1j0)
+:computer: [Markdown for Beginners using Visual Studio Code](https://www.youtube.com/watch?v=UvaZzOkM1j0)
 
 
 
@@ -56,3 +58,9 @@ Your Markdown training will be considered complete when you finish the below tas
 
 1.  Create a test Markdown file.
 2.  Add text using all the formatting syntax.
+
+
+
+
+
+
