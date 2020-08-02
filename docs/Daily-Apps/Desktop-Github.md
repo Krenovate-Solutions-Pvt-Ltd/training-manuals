@@ -155,6 +155,7 @@ Similar to saving a file that's been edited, a commit records changes to one or 
 ![commitchnages](../images/Initial-images/Desktop-Github/commitchanges.jpg)
 
 *   **Write a Commit Message** : at the bottom of the list of changes, in the **Summary field**, type a short, meaningful commit message. Optionally, you can add more information about the change in the **Description field**.
+
 *   Under the Description field, click **Commit to Branch**.
 
 ![commitdesc](../images/Initial-images/Desktop-Github/commitdesc.jpg)
