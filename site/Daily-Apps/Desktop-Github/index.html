@@ -562,11 +562,31 @@
     Creating a Branch
   </a>
   
+    <nav class="md-nav" aria-label="Creating a Branch">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#making-changes-to-branch" class="md-nav__link">
+    Making Changes to Branch
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
   <a href="#committing-changes-to-your-project" class="md-nav__link">
     Committing changes to your project
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-changes" class="md-nav__link">
+    Push Changes
   </a>
   
 </li>
@@ -743,11 +763,31 @@
     Creating a Branch
   </a>
   
+    <nav class="md-nav" aria-label="Creating a Branch">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#making-changes-to-branch" class="md-nav__link">
+    Making Changes to Branch
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
   <a href="#committing-changes-to-your-project" class="md-nav__link">
     Committing changes to your project
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#push-changes" class="md-nav__link">
+    Push Changes
   </a>
   
 </li>
@@ -798,6 +838,7 @@
 <ul>
 <li>Click and Run the installer file on your computer.</li>
 </ul>
+<p><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop">For More Help, Click Here</a></p>
 <h3 id="authenticating-to-github"><strong>Authenticating to Github</strong><a class="headerlink" href="#authenticating-to-github" title="Permanent link">&para;</a></h3>
 <ul>
 <li>In the upper-left corner of the window, select the File menu.</li>
@@ -818,6 +859,7 @@
 </li>
 </ul>
 <p><img alt="auth3" src="../../images/Initial-images/Desktop-Github/auth3.jpg" /></p>
+<p><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop/authenticating-to-github">For more Help, Click Here</a></p>
 <h3 id="configuring-basic-settings"><strong>Configuring Basic Settings</strong><a class="headerlink" href="#configuring-basic-settings" title="Permanent link">&para;</a></h3>
 <ul>
 <li>
@@ -842,6 +884,7 @@
 <p><img alt="advanced" src="../../images/Initial-images/Desktop-Github/advanced.jpg" /></p>
 </li>
 </ul>
+<p><a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop/configuring-and-customizing-github-desktop">More Configuration Help Here</a></p>
 <h2 id="cloning-a-repository-from-github-to-github-desktop"><strong>Cloning a Repository from Github to Github Desktop</strong><a class="headerlink" href="#cloning-a-repository-from-github-to-github-desktop" title="Permanent link">&para;</a></h2>
 <p>There are 2 ways to clone repositories:</p>
 <h3 id="use-github-to-clone-remote-repositories-to-github-desktop"><strong>Use GitHub to clone remote repositories to GitHub Desktop</strong><a class="headerlink" href="#use-github-to-clone-remote-repositories-to-github-desktop" title="Permanent link">&para;</a></h3>
@@ -876,8 +919,10 @@
 <li>Click Clone</li>
 </ul>
 <p><img alt="repo path" src="../../images/Initial-images/Desktop-Github/repopath.jpg" /></p>
+<p><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories">Repository Cloning Help</a></p>
 <h2 id="creating-a-branch"><strong>Creating a Branch</strong><a class="headerlink" href="#creating-a-branch" title="Permanent link">&para;</a></h2>
-<p>If you have collaborator permissions on a repository, you can create a branch off of the repository's default branch so you can safely experiment with changes.</p>
+<p>You can create a branch off of the repository's default branch so you can safely experiment with changes.</p>
+<p>You <strong>always</strong> create a branch from an existing branch. Typically, you might create a branch from the <strong>master</strong> branch of your repository. You can then work on this new branch in isolation from changes that other people are making to the repository.</p>
 <ul>
 <li>At the top of the app, choose your working repository, in the Current Repository tab.</li>
 <li>Click on Current Branch tab.</li>
@@ -889,12 +934,23 @@
 <li>Click on Create branch.</li>
 </ul>
 <p><img alt="branch2" src="../../images/Initial-images/Desktop-Github/branch2.jpg" /></p>
+<p><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch">Branch Help</a></p>
+<h3 id="making-changes-to-branch"><strong>Making Changes to Branch</strong><a class="headerlink" href="#making-changes-to-branch" title="Permanent link">&para;</a></h3>
+<p>Using a text editor, such as <a href="../Visual-Studio-Code/">Visual Studio Code</a>, make the necessary changes to files in your project.</p>
 <h2 id="committing-changes-to-your-project"><strong>Committing changes to your project</strong><a class="headerlink" href="#committing-changes-to-your-project" title="Permanent link">&para;</a></h2>
-<p>GitHub Desktop tracks all changes to all files as you edit them. You can decide how to group the changes to create meaningful commits.</p>
+<p>As you make changes to files in your text editor and save them locally, you will also see the changes in GitHub Desktop.</p>
+<p>Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies:</p>
 <ul>
-<li>Select the branch you have made changes to.</li>
+<li>The specific changes</li>
+<li>When the changes were made</li>
 <li>
-<p>Select changes to include in a commit</p>
+<p>Who created the changes</p>
+</li>
+<li>
+<p><strong>Select the branch</strong> you have made changes to.</p>
+</li>
+<li>
+<p><strong>Select changes</strong> to include in a commit</p>
 <ul>
 <li>The red '-' icon indicates removed files.</li>
 <li>The yellow '.' icon indicates modified files.</li>
@@ -905,18 +961,27 @@
 </ul>
 <p><img alt="commitchnages" src="../../images/Initial-images/Desktop-Github/commitchanges.jpg" /></p>
 <ul>
-<li>At the bottom of the list of changes, in the Summary field, type a short, meaningful commit message. Optionally, you can add more information about the change in the Description field.</li>
-<li>Under the Description field, click Commit to Branch.</li>
+<li>
+<p><strong>Write a Commit Message</strong> : at the bottom of the list of changes, in the <strong>Summary field</strong>, type a short, meaningful commit message. Optionally, you can add more information about the change in the <strong>Description field</strong>.</p>
+</li>
+<li>
+<p>Under the Description field, click <strong>Commit to Branch</strong>.</p>
+</li>
 </ul>
 <p><img alt="commitdesc" src="../../images/Initial-images/Desktop-Github/commitdesc.jpg" /></p>
+<p><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project">Commit Help</a></p>
+<h2 id="push-changes"><strong>Push Changes</strong><a class="headerlink" href="#push-changes" title="Permanent link">&para;</a></h2>
+<p>As you commit changes to your project locally, you can push those changes to GitHub so that others may access them from the remote repository.</p>
+<p>When you push changes, you send the committed changes in your local repository to the remote repository on GitHub. If you change your project locally and want other people to have access to the changes, you must push the changes to GitHub.</p>
 <ul>
-<li>Click on Push origin</li>
+<li><strong>Click on Push origin</strong> : to push your local changes to the remote repository.</li>
 </ul>
 <p><img alt="pushorigin" src="../../images/Initial-images/Desktop-Github/pushorigin.jpg" /></p>
 <ul>
-<li>Click on Create Pull Request: This will send email notification to the reviewer.</li>
+<li><strong>Click on Create Pull Request</strong> : to open a pull request and collaborate on your changes. This will send email notification to the reviewer.</li>
 </ul>
 <p><img alt="pullrequest" src="../../images/Initial-images/Desktop-Github/pullrequest.jpg" /></p>
+<p><a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github">Push Changes Help</a></p>
 <h2 id="help-guides"><strong>Help &amp; Guides</strong><a class="headerlink" href="#help-guides" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
@@ -942,7 +1007,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: July 30, 2020
+      Last update: August 2, 2020
     
   </small>
 </div>
