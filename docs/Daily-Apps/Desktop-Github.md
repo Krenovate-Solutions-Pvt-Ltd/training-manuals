@@ -22,6 +22,8 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
 
 *   Click and Run the installer file on your computer.
 
+[For More Help, Click Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop)
+
 ### **Authenticating to Github**
 
 *   In the upper-left corner of the window, select the File menu.
@@ -39,6 +41,8 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
     *   Use the Github Username and password.
 
 ![auth3](../images/Initial-images/Desktop-Github/auth3.jpg)
+
+[For more Help, Click Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/authenticating-to-github)
 
 
 ### **Configuring Basic Settings**
@@ -62,6 +66,8 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
     *   Options -> Advanced: for more configuration options. 
 
     ![advanced](../images/Initial-images/Desktop-Github/advanced.jpg)
+
+[More Configuration Help Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/configuring-and-customizing-github-desktop)
 
 
 ## **Cloning a Repository from Github to Github Desktop**
@@ -102,9 +108,14 @@ There are 2 ways to clone repositories:
 
 ![repo path](../images/Initial-images/Desktop-Github/repopath.jpg)
 
+[Repository Cloning Help](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories)
+
+
 ## **Creating a Branch**
 
-If you have collaborator permissions on a repository, you can create a branch off of the repository's default branch so you can safely experiment with changes.
+You can create a branch off of the repository's default branch so you can safely experiment with changes.
+
+You **always** create a branch from an existing branch. Typically, you might create a branch from the **master** branch of your repository. You can then work on this new branch in isolation from changes that other people are making to the repository.
 
 *   At the top of the app, choose your working repository, in the Current Repository tab.
 *   Click on Current Branch tab.
@@ -117,12 +128,24 @@ If you have collaborator permissions on a repository, you can create a branch of
 
 ![branch2](../images/Initial-images/Desktop-Github/branch2.jpg)
 
+[Branch Help](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch)
+
+### **Making Changes to Branch**
+
+Using a text editor, such as [Visual Studio Code](Visual-Studio-Code.md), make the necessary changes to files in your project.
+
 ## **Committing changes to your project**
 
-GitHub Desktop tracks all changes to all files as you edit them. You can decide how to group the changes to create meaningful commits.
+As you make changes to files in your text editor and save them locally, you will also see the changes in GitHub Desktop.
 
-*   Select the branch you have made changes to.
-*   Select changes to include in a commit
+Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies:
+
+-   The specific changes
+-   When the changes were made
+-   Who created the changes
+
+*   **Select the branch** you have made changes to.
+*   **Select changes** to include in a commit
 
     *   The red '-' icon indicates removed files.
     *   The yellow '.' icon indicates modified files.
@@ -131,19 +154,30 @@ GitHub Desktop tracks all changes to all files as you edit them. You can decide 
 
 ![commitchnages](../images/Initial-images/Desktop-Github/commitchanges.jpg)
 
-*   At the bottom of the list of changes, in the Summary field, type a short, meaningful commit message. Optionally, you can add more information about the change in the Description field.
-*   Under the Description field, click Commit to Branch.
+*   **Write a Commit Message** : at the bottom of the list of changes, in the **Summary field**, type a short, meaningful commit message. Optionally, you can add more information about the change in the **Description field**.
+
+*   Under the Description field, click **Commit to Branch**.
 
 ![commitdesc](../images/Initial-images/Desktop-Github/commitdesc.jpg)
 
-*   Click on Push origin
+[Commit Help](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project)
+
+
+## **Push Changes**
+
+As you commit changes to your project locally, you can push those changes to GitHub so that others may access them from the remote repository.
+
+When you push changes, you send the committed changes in your local repository to the remote repository on GitHub. If you change your project locally and want other people to have access to the changes, you must push the changes to GitHub.
+
+*   **Click on Push origin** : to push your local changes to the remote repository.
 
 ![pushorigin](../images/Initial-images/Desktop-Github/pushorigin.jpg)
 
-*   Click on Create Pull Request: This will send email notification to the reviewer.
+*   **Click on Create Pull Request** : to open a pull request and collaborate on your changes. This will send email notification to the reviewer.
 
 ![pullrequest](../images/Initial-images/Desktop-Github/pullrequest.jpg)
 
+[Push Changes Help](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)
 
 ## **Help & Guides**
 
