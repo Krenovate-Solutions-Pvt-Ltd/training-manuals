@@ -14,15 +14,32 @@ Before you set up GitHub Desktop, you must already have a GitHub account.
 
 
 ### **Download & Install Desktop GitHub**
+
+You can install GitHub Desktop on supported Microsoft Windows or macOS operating systems.
    
 *   Go to: https://desktop.github.com/
-*   Choose Download to
+*   Click "Download for Windows/Mac"
 
 ![github desktop](../images/Initial-images/Desktop-Github/GitHub-Desktop.jpg)
 
-*   Click and Run the installer file on your computer.
+*   In your computer's **Downloads** folder, double-click **GitHub Desktop**.
+*   In the pop-up window, click **Install**.
+*   After the program has been installed, click **Run**.
 
-[For More Help, Click Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop)
+[Click here for complete steps for Windows/Mac Users](https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop)
+
+### **Setting up Desktop Github**
+
+After you've launched GitHub Desktop, you can choose to set up GitHub Desktop right away.
+
+-   You will be asked to sign into Github.
+
+![sign up](../images/Initial-images/Desktop-Github/setup.jpg)
+
+-   Once you sign in, you will need to approve permissions.
+
+![auth github](../images/Initial-images/Desktop-Github/authgithub.jpg)
+
 
 ### **Authenticating to Github**
 
@@ -152,7 +169,7 @@ Similar to saving a file that's been edited, a commit records changes to one or 
     *   The green '+' icon indicates added files.
     *   To access stashed changes, click Stashed Changes.
 
-![commitchnages](../images/Initial-images/Desktop-Github/commitchanges.jpg)
+![commitchanges](../images/Initial-images/Desktop-Github/commitchanges.jpg)
 
 *   **Write a Commit Message** : at the bottom of the list of changes, in the **Summary field**, type a short, meaningful commit message. Optionally, you can add more information about the change in the **Description field**.
 

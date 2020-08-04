@@ -21,18 +21,18 @@ This document contains some tips and tricks for some basic day to day tasks we d
 2.  Press and hold "shift, windows key, S" keys together on your keyboard.
 3.  Choose the relevant option for snipping. You can choose to snip only part of the screen, full screen, random part.
 
-![snip option](../images/Initial-images/Tips/snipoption.jpg)
+    ![snip option](../images/Initial-images/Tips/snipoption.jpg)
 
 4.  You will see a dialog box "Snip saved to Clipboard".
 5.  Click on "Select here to mark up and share the image".
 
-![snip edit](../images/Initial-images/Tips/snipedit.jpg)
+    ![snip edit](../images/Initial-images/Tips/snipedit.jpg)
 
 6.  You will reach the "Snip & Sketch" screen.
 7.  Use the editing tools to make the  required changes to the picture.
 8.  Save/Share/Copy the file.
 
-![snip edit1](../images/Initial-images/Tips/snipedit1.jpg)
+    ![snip edit1](../images/Initial-images/Tips/snipedit1.jpg)
 
 
 ### **For Mac Users**
@@ -52,11 +52,11 @@ This document contains some tips and tricks for some basic day to day tasks we d
 2.  Right Click on it.
 3.  Select -> Open with Paint
 
-![open paint](../images/Initial-images/Tips/openpaint.jpg)
+    ![open paint](../images/Initial-images/Tips/openpaint.jpg)
 
 4.  Image will open in Paint App.
 5.  Go to -> File -> Save As -> Jpeg
 
-![save jpeg](../images/Initial-images/Tips/savejpeg.jpg)
+    ![save jpeg](../images/Initial-images/Tips/savejpeg.jpg)
 
 6.  Save the image with .jpeg extension.

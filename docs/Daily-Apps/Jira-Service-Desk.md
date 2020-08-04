@@ -241,12 +241,12 @@ When you have finished helping your customer, you can close the issue/ticket to 
 3.  Select the **Status** and Click **Mark as Done** 
 4.  A new window to choose your resolution response will open.
 
-![resolution](../images/Initial-images/Jira-Service-Desk/resolution.jpg)
+    ![resolution](../images/Initial-images/Jira-Service-Desk/resolution.jpg)
 
 5.  Add relevant comments for Customer and internal note.
 6.  Click on "Mark as Done" to save.
 
-![resolution1](../images/Initial-images/Jira-Service-Desk/resolution1.jpg)
+    ![resolution1](../images/Initial-images/Jira-Service-Desk/resolution1.jpg)
 
 
 ## **Help & Guides**

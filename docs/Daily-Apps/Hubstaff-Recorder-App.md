@@ -87,16 +87,7 @@ For more information on Hubstaff, follow the link below:
 
 When you complete the above training, do the below task to mark your training complete.
 
-1.  Share a screen shot of the assigned task which shows on the Recorder.
-
-    -   Open the Hubstaff Recorder
-    -   Take print screen by using one of the below methods:
-
-        -   shift+windowskey+S
-        -   ctrl+prtsc key
-        -   shift+command+3 (only for mac users)
-
-
+1.  Share a [screen shot](Tips-and-Tricks.md) of the assigned task which shows on the Recorder.
 2.  Try to record time for the assigned task by starting the timer for that particular task.
 
 

@@ -26,10 +26,8 @@ nav:
     -  Markdown: 'Daily-Apps/Markdown.md'
     -  Jira Service Desk: 'Daily-Apps/Jira-Service-Desk.md'
     -  Visual Studio Code: 'Daily-Apps/Visual-Studio-Code.md'
-    -  Tips and Tricks: 'Daily-Apps/Tips-and-Tricks.md'
-    
-    
-    
+    -  Tips and Tricks: 'Daily-Apps/Tips-and-Tricks.md'   
+       
 theme:
   name: material
   features:

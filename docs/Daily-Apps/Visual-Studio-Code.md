@@ -24,19 +24,18 @@ For reference purpose, we will use example of Windows here.
 
 ### **Installation**
 
-1.  Download Visual Studio Editor from: https://code.visualstudio.com/
+1.  Download the Visual Studio Editor installer from: https://code.visualstudio.com/
 
 ![download](../images/Initial-images/VSCode/download.jpg)
 
 2.  Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
 
-See the [Download Visual Studio Code](https://code.visualstudio.com/download) page for a complete list of available installation options.
+See the [Download Visual Studio Code](https://code.visualstudio.com/download) page for a complete list of available installation options for other Operating Systems.
 
 ### **Get Started**
 
-Watch the small video to learn about the setup and basics of Visual Studio Code.
+Watch the [video](https://code.visualstudio.com/docs/introvideos/basics) to learn about the setup and basics of Visual Studio Code.
 
-https://code.visualstudio.com/docs/introvideos/basics
 
 ## **Using Basic Features in VS Code**
 
@@ -49,14 +48,14 @@ These videos use JavaScript, but feel free to use any language you are comfortab
 
 Personalise VS Code to suit your needs through changing settings, themes, keybindings.
 
-https://code.visualstudio.com/docs/introvideos/configure
+[Customization Guide](https://code.visualstudio.com/docs/introvideos/configure)
 
 ### **Extensions**
 
 *   Add features, themes and more to VS Code with extensions.
 *   VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow.
 
-https://code.visualstudio.com/docs/introvideos/extend
+[Extensions Described here](https://code.visualstudio.com/docs/introvideos/extend)
 
 #### **Browse for Extensions**
 
@@ -97,6 +96,23 @@ Markdown files have an extension as ".md".
 Working with Markdown files in Visual Studio Code is simple, straightforward, and fun. Besides VS Code's basic editing, there are a number of Markdown specific features that will help you be more productive.
 
 Learn more about [Markdown](Markdown.md) here.
+
+## **How to Edit files in Visual Code Editor**
+
+When you are ready to work in the Visual Studio Code, follow the below steps:
+
+1.  Go to -> File -> Open Folder
+2.  Select the "folder/repository" on your local machine you want to work on.
+
+    ![open folder](../images/Initial-images/VSCode/openfoldervsc.jpg)
+
+3.  Start adding/editing content as per requirement. You can add multiple folders and .md files to your repository.
+
+    ![make changes](../images/Initial-images/VSCode/makechangesvsc.jpg)
+
+All the changes that you make in the repository, will show up in the [Desktop Github](Desktop-Github.md) window.
+
+![look on Desktop Github](../images/Initial-images/VSCode/lookdesktopgithub.jpg)
 
 
 ## **Help & Guides**
