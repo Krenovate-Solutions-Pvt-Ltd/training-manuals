@@ -26,6 +26,8 @@ Follow the below steps:
 
 ## **Account Verification**
 
+Once your account is created, Github will send you an email with a "link to verify" in it.
+
 *    Verify your email to complete signup
 
 ![Github Verify](../images/Initial-images/GitHub/Github%20verify.jpg)
@@ -79,10 +81,13 @@ Follow the below steps:
      *    Pull requests show diffs, or differences, of the content from both branches.
      *    The changes, additions, and subtractions are shown in green and red.
 
+
 *    **Merge Pull Request**
 
      *    In this final step, it’s time to bring your changes together – merging your edited branches into the master branch.
 
+>    **Note** : There can be multiple push requests for 1 pull request.
+> 
 
 ## **Github Flow**
 
