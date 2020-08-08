@@ -1,0 +1,799 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.4.0">
+    
+    
+      
+        <title>**MkDocs YML** - Training Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.fe0cca5b.min.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.a46bcfb3.min.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#3f51b5">
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,400i,700%7CSource+Code+Pro&display=fallback">
+        <style>body,input{font-family:"Inter",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Source Code Pro",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="indigo" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mkdocs-yml" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../.." title="Training Manual" class="md-header-nav__button md-logo" aria-label="Training Manual">
+      
+  <img src="../../images/logo.svg" alt="logo">
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Training Manual
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              **MkDocs YML**
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Training Manual" class="md-nav__button md-logo" aria-label="Training Manual">
+      
+  <img src="../../images/logo.svg" alt="logo">
+
+    </a>
+    Training Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-1" type="checkbox" id="nav-1">
+    
+    <label class="md-nav__link" for="nav-1">
+      Employee Policies
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Employee Policies" data-md-level="1">
+      <label class="md-nav__title" for="nav-1">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        </span>
+        Employee Policies
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Introduction/" title="Introduction" class="md-nav__link">
+      Introduction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Mission-Vision/" title="About Krenovate" class="md-nav__link">
+      About Krenovate
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Code-of-Business-Conduct-and-Ethics/" title="Code of Business Conduct and Ethics" class="md-nav__link">
+      Code of Business Conduct and Ethics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/End-User-Computing-Policy/" title="End User Computing Policy" class="md-nav__link">
+      End User Computing Policy
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Research-Ethical-Guidelines/" title="Research Ethical Guidelines" class="md-nav__link">
+      Research Ethical Guidelines
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Anti-Sexual-Harassment-Policy/" title="Anti-Sexual Harassment Policy" class="md-nav__link">
+      Anti-Sexual Harassment Policy
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Declaration-Trading-Account/" title="Declaration regarding Trading Account" class="md-nav__link">
+      Declaration regarding Trading Account
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Non-Tampering-Undertaking/" title="Non-Tampering Undertaking" class="md-nav__link">
+      Non-Tampering Undertaking
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Acknowledgement-Punitive-Action/" title="Acknowledgement of Punitive Action" class="md-nav__link">
+      Acknowledgement of Punitive Action
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Compliance-Company-Policies-Undertaking/" title="Compliance of Company Policies Undertaking" class="md-nav__link">
+      Compliance of Company Policies Undertaking
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Annexure-A/" title="Annexure A" class="md-nav__link">
+      Annexure A
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Annexure-B/" title="Annexure B" class="md-nav__link">
+      Annexure B
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Annexure-C/" title="Annexure C" class="md-nav__link">
+      Annexure C
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Employee-Policies/Annexure-D/" title="Annexure D" class="md-nav__link">
+      Annexure D
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Daily Work Apps
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z"/></svg>
+      </span>
+    </label>
+    <nav class="md-nav" aria-label="Daily Work Apps" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        </span>
+        Daily Work Apps
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Introduction/" title="Introduction" class="md-nav__link">
+      Introduction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../GSuite/" title="Gsuite" class="md-nav__link">
+      Gsuite
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Jira/" title="Jira" class="md-nav__link">
+      Jira
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Hubstaff-Web/" title="Hubstaff Web" class="md-nav__link">
+      Hubstaff Web
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Hubstaff-Recorder-App/" title="Hubstaff Recorder App" class="md-nav__link">
+      Hubstaff Recorder App
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../GitHub/" title="GitHub" class="md-nav__link">
+      GitHub
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Desktop-Github/" title="Desktop Github" class="md-nav__link">
+      Desktop Github
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Markdown/" title="Markdown" class="md-nav__link">
+      Markdown
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Jira-Service-Desk/" title="Jira Service Desk" class="md-nav__link">
+      Jira Service Desk
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Visual-Studio-Code/" title="Visual Studio Code" class="md-nav__link">
+      Visual Studio Code
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Tips-and-Tricks/" title="Tips and Tricks" class="md-nav__link">
+      Tips and Tricks
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    Introduction
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#yml-files" class="md-nav__link">
+    YML Files
+  </a>
+  
+    <nav class="md-nav" aria-label="YML Files">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#why-we-need-yml-files" class="md-nav__link">
+    Why we need .yml files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#writing-your-docs" class="md-nav__link">
+    Writing your Docs
+  </a>
+  
+    <nav class="md-nav" aria-label="Writing your Docs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#file-layout" class="md-nav__link">
+    File Layout
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#configure-pages-and-navigation" class="md-nav__link">
+    Configure Pages and Navigation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#things-to-remember" class="md-nav__link">
+    Things to remember
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <h1 id="mkdocs-yml"><strong>MkDocs YML</strong><a class="headerlink" href="#mkdocs-yml" title="Permanent link">&para;</a></h1>
+<h2 id="introduction"><strong>Introduction</strong><a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+<p>MkDocs is a fast and simple static <strong>site generator</strong> designed for building project documentation.</p>
+<p>Documentation source files are written in <strong>Markdown</strong>, and configured with a single YML configuration file.</p>
+<p><strong>Host anywhere</strong></p>
+<p>MkDocs builds completely static HTML sites that you can host on <strong><em>GitHub pages</em></strong>, Amazon S3, or anywhere else you choose.</p>
+<p><strong>Great themes available</strong></p>
+<p>There's a stack of good looking themes available for MkDocs. Choose between the built in themes: mkdocs and readthedocs, select one of the 3<sup>rd</sup> party themes listed on the MkDocs Themes wiki page, or build your own.</p>
+<p><strong>Preview your site as you work</strong></p>
+<p>The built-in dev-server allows you to preview your documentation as you're writing it. It will even auto-reload and refresh your browser whenever you save your changes.</p>
+<p><strong>Easy to customize</strong></p>
+<p>Get your project documentation looking just the way you want it by customizing the theme and/or installing some plugins.</p>
+<h2 id="yml-files"><strong>YML Files</strong><a class="headerlink" href="#yml-files" title="Permanent link">&para;</a></h2>
+<p>YAML is an indentation-based markup language which aims to be both easy to read and easy to write. Many projects use it because of its readability, simplicity and good support for many programming languages.</p>
+<p>These documents use the extension <strong>.yml</strong>.</p>
+<h3 id="why-we-need-yml-files"><strong>Why we need .yml files</strong><a class="headerlink" href="#why-we-need-yml-files" title="Permanent link">&para;</a></h3>
+<p>mkdocs.yml defines which pages are built by MkDocs and how they appear in the documentation navigation. </p>
+<p>In a .yml file you can decide the layout and the flow of your website.</p>
+<h3 id="writing-your-docs"><strong>Writing your Docs</strong><a class="headerlink" href="#writing-your-docs" title="Permanent link">&para;</a></h3>
+<p>In this section, we will discuss how to write and layout your Markdown source files.</p>
+<h4 id="file-layout"><strong>File Layout</strong><a class="headerlink" href="#file-layout" title="Permanent link">&para;</a></h4>
+<p>Your documentation source should be written as regular <a href="../Markdown/">Markdown</a> files and placed in the documentation directory. By default, this directory will be named <strong>docs</strong> and will exist at the top level of your project, alongside the <strong>mkdocs.yml</strong> configuration file.</p>
+<p>The simplest project you can create will look something like this:</p>
+<div class="codehilite"><pre><span></span><code>mkdocs.yml
+docs/
+    index.md
+</code></pre></div>
+
+
+<p><img alt="mkdocs view" src="../../images/Initial-images/yml/mkdocsview.jpg" /></p>
+<p>By convention your project homepage should be named <strong>index.md</strong>. Any of the following file extensions may be used for your Markdown source files: markdown, mdown, mkdn, mkd, md. All Markdown files included in your documentation directory will be rendered in the built site regardless of any settings.</p>
+<p>The file layout you use determines the URLs that are used for the generated pages. </p>
+<p>Few examples:</p>
+<p><strong>Multi-page Documentation</strong></p>
+<p>You can also create multi-page documentation, by creating several Markdown files:</p>
+<div class="codehilite"><pre><span></span><code>mkdocs.yml
+docs/
+    index.md
+    about.md
+    license.md
+</code></pre></div>
+
+
+<p>In the above layout, pages would be generated for the following URLs:</p>
+<div class="codehilite"><pre><span></span><code>/
+/about/
+/license/
+</code></pre></div>
+
+
+<p><strong>Files in Nested Directories</strong></p>
+<p>You can also include your Markdown files in nested directories if that better suits your documentation layout.</p>
+<div class="codehilite"><pre><span></span><code>docs/
+    index.md
+    user-guide/getting-started.md
+    user-guide/configuration-options.md
+    license.md
+</code></pre></div>
+
+
+<p>Source files inside nested directories will cause pages to be generated with nested URLs, like so:</p>
+<div class="codehilite"><pre><span></span><code>/
+/user-guide/getting-started/
+/user-guide/configuration-options/
+/license/
+</code></pre></div>
+
+
+<h4 id="configure-pages-and-navigation"><strong>Configure Pages and Navigation</strong><a class="headerlink" href="#configure-pages-and-navigation" title="Permanent link">&para;</a></h4>
+<p>The <strong>nav</strong> configuration setting in your <strong>mkdocs.yml</strong> file defines which pages are included in the global site navigation menu as well as the structure of that menu. </p>
+<p>A minimal navigation configuration could look like this:</p>
+<div class="codehilite"><pre><span></span><code>nav:
+    - &#39;index.md&#39;
+    - &#39;about.md&#39;
+</code></pre></div>
+
+
+<p>the source files for the above configuration would be located at <strong>docs/index.md</strong> and <strong>docs/about.md</strong>.</p>
+<p>The above example will result in two navigation items being created at the top level. </p>
+<p>A title should be added before the filename which will used throughout the site for that page.</p>
+<div class="codehilite"><pre><span></span><code>nav:
+    - Home: &#39;index.md&#39;
+    - About: &#39;about.md&#39;
+</code></pre></div>
+
+
+<p><img alt="yml struct" src="../../images/Initial-images/yml/ymlstrct.jpg" /></p>
+<p>Navigation sub-sections can be created by listing related pages together under a section title. For example:</p>
+<div class="codehilite"><pre><span></span><code>nav:
+    - Home: &#39;index.md&#39;
+    - &#39;User Guide&#39;:
+      - &#39;Writing your docs&#39;: &#39;writing-your-docs.md&#39;
+      - &#39;Styling your docs&#39;: &#39;styling-your-docs.md&#39;
+    - About:
+      - &#39;License&#39;: &#39;license.md&#39;
+      - &#39;Release Notes&#39;: &#39;release-notes.md&#39;
+</code></pre></div>
+
+
+<p>The above configuration will result in the below dropdowns on the website:</p>
+<div class="codehilite"><pre><span></span><code>Home - this is the link to the homepage of the site
+
+User Guide - this will have two pages listed :
+
+    -   Writing your Docs
+    -   Styling your Docs
+
+
+About - this will have two pages listed:
+
+    -   License
+    -   Release notes
+</code></pre></div>
+
+
+<p><img alt="nested structure" src="../../images/Initial-images/yml/nestedyml.jpg" /></p>
+<h2 id="things-to-remember"><strong>Things to remember</strong><a class="headerlink" href="#things-to-remember" title="Permanent link">&para;</a></h2>
+<p>While defining the layout/structure of your website in the .yml file, keep the below tips in mind:</p>
+<ul>
+<li>The spacing of the '-' before the file title. It defines the layout.</li>
+<li>The path provided for subsections should be correct.</li>
+<li>No extra spaces should be inserted.</li>
+</ul>
+                
+                  
+                    
+
+<hr>
+<div class="md-source-date">
+  <small>
+    
+      Last update: August 7, 2020
+    
+  </small>
+</div>
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.d710d30a.min.js"></script>
+      <script src="../../assets/javascripts/bundle.b39636ac.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: ["instant"],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.a68abb33.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
