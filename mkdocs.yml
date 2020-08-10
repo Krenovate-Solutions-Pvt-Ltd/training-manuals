@@ -24,10 +24,11 @@ nav:
     -  GitHub: 'Daily-Apps/GitHub.md'
     -  Desktop Github: 'Daily-Apps/Desktop-Github.md'
     -  Markdown: 'Daily-Apps/Markdown.md'
-    -  Jira Service Desk: 'Daily-Apps/Jira-Service-Desk.md'
     -  Visual Studio Code: 'Daily-Apps/Visual-Studio-Code.md'
+    -  MkDocs YML: 'Daily-Apps/mkdocs-yml.md'
+    -  Jira Service Desk: 'Daily-Apps/Jira-Service-Desk.md'
     -  Tips and Tricks: 'Daily-Apps/Tips-and-Tricks.md'   
-       
+          
 theme:
   name: material
   features:

@@ -26,7 +26,7 @@ You can install GitHub Desktop on supported Microsoft Windows or macOS operating
 *   In the pop-up window, click **Install**.
 *   After the program has been installed, click **Run**.
 
-[Click here for complete steps for Windows/Mac Users](https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop)
+####    :book: [Tutorial for Windows and Mac Users](https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop#setting-up-github-desktop)
 
 ### **Setting up Desktop Github**
 
@@ -59,7 +59,7 @@ After you've launched GitHub Desktop, you can choose to set up GitHub Desktop ri
 
 ![auth3](../images/Initial-images/Desktop-Github/auth3.jpg)
 
-[For more Help, Click Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/authenticating-to-github)
+####    :book: [Authentication Tutorial](https://docs.github.com/en/desktop/getting-started-with-github-desktop/authenticating-to-github)
 
 
 ### **Configuring Basic Settings**
@@ -84,7 +84,7 @@ After you've launched GitHub Desktop, you can choose to set up GitHub Desktop ri
 
     ![advanced](../images/Initial-images/Desktop-Github/advanced.jpg)
 
-[More Configuration Help Here](https://docs.github.com/en/desktop/getting-started-with-github-desktop/configuring-and-customizing-github-desktop)
+####    :book: [Configuration Tutorial](https://docs.github.com/en/desktop/getting-started-with-github-desktop/configuring-and-customizing-github-desktop)
 
 
 ## **Cloning a Repository from Github to Github Desktop**
@@ -194,7 +194,7 @@ When you push changes, you send the committed changes in your local repository t
 
 ![pullrequest](../images/Initial-images/Desktop-Github/pullrequest.jpg)
 
-[Push Changes Help](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)
+####    :book: [Push Changes Tutorial](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/pushing-changes-to-github)
 
 ## **Help & Guides**
 
