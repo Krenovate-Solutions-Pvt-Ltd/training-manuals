@@ -22,13 +22,15 @@ Once you create your account, please contact your manager to assign you to relev
 
 ## **Logging In**
 
-To log in, please visit - krenovate.atlassian.net and click on the sign in button. Please use your credentials to log in. 
+To log in:
 
-![Jiralogin](../images/Initial-images/Jira/Jira%20login.jpg)
+1.  Go to -> krenovate.atlassian.net
+2.  Click on the sign in button. 
+3.  Use your credentials to log in. 
 
-For free tutorial visit:
+    ![Jiralogin](../images/Initial-images/Jira/Jira%20login.jpg)
 
-https://www.atlassian.com/software/jira/guides
+### :book: [Tutorial](https://www.atlassian.com/software/jira/guides)
 
 
 ## **Key terms to know**
@@ -137,7 +139,7 @@ https://www.atlassian.com/software/jira/guides
 ![components](../images/Initial-images/Jira/components.jpg)
 
 
-[Watch the tutorial to understand the key terms](https://www.youtube.com/watch?v=tVS5YbHBjQw)
+### :book: [Watch the tutorial to understand the key terms](https://www.youtube.com/watch?v=tVS5YbHBjQw)
 
 
 ## **Task Allocation and Management**
@@ -288,7 +290,7 @@ issue.
 
 ![task done](../images/Initial-images/Jira/taskdone.jpg)
 
-## **Tutorials and User Guides**
+## **Help & Guides**
 
 Follow the below useful links for more information:
 

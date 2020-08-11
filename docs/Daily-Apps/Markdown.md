@@ -27,9 +27,46 @@ Markdown uses basic syntax to format the content.
 
 Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.
 
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) : This provides a quick overview of all the Markdown syntax elements.
+Few commonly used syntax are as below:
 
-[Emoji Cheat Sheet](https://gist.github.com/rxaviers/7360908) : Here you will find the complete list of Github Markdown emojis :smiley:
+|Element|Markdown Syntax|
+|:-------|---------------:|
+|Heading|# H1<br>## H2<br>### H3|
+|Bold|** text **<br>__ text __|
+|Italic|* text *<br>_ text _|
+|Blockquote|> text|
+|Ordered List|1. Item 1<br>2. Item 2<br>3. Item 3|
+|Unordered List|- Item 1/ * Item 1<br>- Item 2/ * Item 2<br>- Item 3/ * Item 3|
+|Link|[title](link to be inserted)|
+|Image|![alt text](image to be inserted)|
+
+### **Creating Table in Markdown**
+
+1.  **Add Header** : To specify the headers, simply separate each header with spaces and pipes. Make sure to include a pipe at the beginning and end of the line as well.
+
+    ![header](../images/Initial-images/Markdown/tableheader.jpg)
+
+2.  **Alignment of text** : Each column can be aligned left, right, or center. The alignment is set by using a pattern of dashes and a colon separated by spaces and pipes.
+
+    -   To left-align a column, put a colon to the left of two dashes :--.
+    -   Three dashes --- can also be used.
+    -   To right-align, put a colon to the right of two dashes --:.
+    -   To center-align, surround a dash with two colons :-:.
+
+    ![align](../images/Initial-images/Markdown/tablealign.jpg)
+
+3.  **The body** of the table consists of any number of rows separated by line breaks. Like the header, every cell is separated by a pipe character "|". 
+
+    ![body](../images/Initial-images/Markdown/tablebody.jpg)
+
+4.  Insert **"< br >"** when you need to force a line break in a specific place in your content.
+
+    ![line break](../images/Initial-images/Markdown/linebreak.jpg)
+
+  
+####    [Markdown Cheat Sheet- All Syntax](https://www.markdownguide.org/cheat-sheet/)
+
+####    [Emoji Cheat Sheet- Complete list](https://gist.github.com/rxaviers/7360908) :smiley:
 
 ## **Getting Started**
 

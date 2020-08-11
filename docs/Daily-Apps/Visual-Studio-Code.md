@@ -24,17 +24,20 @@ For reference purpose, we will use example of Windows here.
 
 ### **Installation**
 
+Follow the below steps to download and install Visual Studio Code editor:
+
 1.  Download the Visual Studio Editor installer from: https://code.visualstudio.com/
 
-![download](../images/Initial-images/VSCode/download.jpg)
+    ![download](../images/Initial-images/VSCode/download.jpg)
 
 2.  Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). This will only take a minute.
 
-See the [Download Visual Studio Code](https://code.visualstudio.com/download) page for a complete list of available installation options for other Operating Systems.
+####    :book: [Download Visual Studio Code Tutorial - All Operating Systems](https://code.visualstudio.com/download) 
+
 
 ### **Get Started**
 
-Watch the [video](https://code.visualstudio.com/docs/introvideos/basics) to learn about the setup and basics of Visual Studio Code.
+Getting set up on VS Code is a simple process. Watch the [video](https://code.visualstudio.com/docs/introvideos/basics) to learn about the setup and basics of Visual Studio Code.
 
 
 ## **Using Basic Features in VS Code**
@@ -43,19 +46,16 @@ Start your journey using Visual Studio Code with this set of introductory videos
 
 These videos use JavaScript, but feel free to use any language you are comfortable with!
 
-
 ### **Customize**
 
 Personalise VS Code to suit your needs through changing settings, themes, keybindings.
 
-[Customization Guide](https://code.visualstudio.com/docs/introvideos/configure)
+####    :book: [Customization Tutorial](https://code.visualstudio.com/docs/introvideos/configure)
 
 ### **Extensions**
 
 *   Add features, themes and more to VS Code with extensions.
 *   VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow.
-
-[Extensions Described here](https://code.visualstudio.com/docs/introvideos/extend)
 
 #### **Browse for Extensions**
 
@@ -74,12 +74,13 @@ Personalise VS Code to suit your needs through changing settings, themes, keybin
 
 ![install ext](../images/Initial-images/VSCode/extinstall.jpg)
 
+####    :book: [Extensions Tutorial](https://code.visualstudio.com/docs/introvideos/extend)
 
 ### **Basic Editing: Keyboard Shortcuts**
 
 Being able to keep your hands on the keyboard when writing code is crucial for high productivity. VS Code has a rich set of default keyboard shortcuts as well as allowing you to customize them.
 
-[Cheatsheet for Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+####    [Cheatsheet for Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## **Working with Github in VS Code**
 
@@ -110,9 +111,13 @@ When you are ready to work in the Visual Studio Code, follow the below steps:
 
     ![make changes](../images/Initial-images/VSCode/makechangesvsc.jpg)
 
+4.  Make changes to the [mkdocs.yml file](mkdocs-yml.md). This is a very important step. Without updating the .yml file, the content of your documentation will not show properly on the website.
+
 All the changes that you make in the repository, will show up in the [Desktop Github](Desktop-Github.md) window.
 
 ![look on Desktop Github](../images/Initial-images/VSCode/lookdesktopgithub.jpg)
+
+To update your content on the website, follow the steps in the [Desktop Github](Desktop-Github.md).
 
 
 ## **Help & Guides**
@@ -120,7 +125,7 @@ All the changes that you make in the repository, will show up in the [Desktop Gi
 *   [Visual Studio Code user guide](https://code.visualstudio.com/docs/introvideos/basics)
 
 
-*   [Watch Video](https://www.youtube.com/watch?v=VqCgcpAypFQ)
+*   [Video Guide](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 
 
 
