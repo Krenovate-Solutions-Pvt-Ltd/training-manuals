@@ -536,6 +536,33 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#creating-table-in-markdown" class="md-nav__link">
+    Creating Table in Markdown
+  </a>
+  
+    <nav class="md-nav" aria-label="Creating Table in Markdown">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#markdown-cheat-sheet-all-syntax" class="md-nav__link">
+    Markdown Cheat Sheet- All Syntax
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emoji-cheat-sheet-complete-list" class="md-nav__link">
+    Emoji Cheat Sheet- Complete list
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -575,8 +602,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../Jira-Service-Desk/" title="Jira Service Desk" class="md-nav__link">
-      Jira Service Desk
+    <a href="../Visual-Studio-Code/" title="Visual Studio Code" class="md-nav__link">
+      Visual Studio Code
     </a>
   </li>
 
@@ -587,8 +614,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../Visual-Studio-Code/" title="Visual Studio Code" class="md-nav__link">
-      Visual Studio Code
+    <a href="../mkdocs-yml/" title="MkDocs YML" class="md-nav__link">
+      MkDocs YML
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Jira-Service-Desk/" title="Jira Service Desk" class="md-nav__link">
+      Jira Service Desk
     </a>
   </li>
 
@@ -670,6 +709,33 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#creating-table-in-markdown" class="md-nav__link">
+    Creating Table in Markdown
+  </a>
+  
+    <nav class="md-nav" aria-label="Creating Table in Markdown">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#markdown-cheat-sheet-all-syntax" class="md-nav__link">
+    Markdown Cheat Sheet- All Syntax
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#emoji-cheat-sheet-complete-list" class="md-nav__link">
+    Emoji Cheat Sheet- Complete list
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -730,8 +796,76 @@
 <p>Markdown uses basic syntax to format the content. </p>
 <h3 id="formatting-text"><strong>Formatting text</strong><a class="headerlink" href="#formatting-text" title="Permanent link">&para;</a></h3>
 <p>Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists.</p>
-<p><a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a> : This provides a quick overview of all the Markdown syntax elements.</p>
-<p><a href="https://gist.github.com/rxaviers/7360908">Emoji Cheat Sheet</a> : Here you will find the complete list of Github Markdown emojis <img alt="😃" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f603.svg" title=":smiley:" /></p>
+<p>Few commonly used syntax are as below:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Element</th>
+<th align="right">Markdown Syntax</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Heading</td>
+<td align="right"># H1<br>## H2<br>### H3</td>
+</tr>
+<tr>
+<td align="left">Bold</td>
+<td align="right">** text **<br>__ text __</td>
+</tr>
+<tr>
+<td align="left">Italic</td>
+<td align="right">* text *<br>_ text _</td>
+</tr>
+<tr>
+<td align="left">Blockquote</td>
+<td align="right">&gt; text</td>
+</tr>
+<tr>
+<td align="left">Ordered List</td>
+<td align="right">1. Item 1<br>2. Item 2<br>3. Item 3</td>
+</tr>
+<tr>
+<td align="left">Unordered List</td>
+<td align="right">- Item 1/ * Item 1<br>- Item 2/ * Item 2<br>- Item 3/ * Item 3</td>
+</tr>
+<tr>
+<td align="left">Link</td>
+<td align="right"><a href="link to be inserted">title</a></td>
+</tr>
+<tr>
+<td align="left">Image</td>
+<td align="right"><img alt="alt text" src="image to be inserted" /></td>
+</tr>
+</tbody>
+</table>
+<h3 id="creating-table-in-markdown"><strong>Creating Table in Markdown</strong><a class="headerlink" href="#creating-table-in-markdown" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>Add Header</strong> : To specify the headers, simply separate each header with spaces and pipes. Make sure to include a pipe at the beginning and end of the line as well.</p>
+<p><img alt="header" src="../../images/Initial-images/Markdown/tableheader.jpg" /></p>
+</li>
+<li>
+<p><strong>Alignment of text</strong> : Each column can be aligned left, right, or center. The alignment is set by using a pattern of dashes and a colon separated by spaces and pipes.</p>
+<ul>
+<li>To left-align a column, put a colon to the left of two dashes :--.</li>
+<li>Three dashes --- can also be used.</li>
+<li>To right-align, put a colon to the right of two dashes --:.</li>
+<li>To center-align, surround a dash with two colons :-:.</li>
+</ul>
+<p><img alt="align" src="../../images/Initial-images/Markdown/tablealign.jpg" /></p>
+</li>
+<li>
+<p><strong>The body</strong> of the table consists of any number of rows separated by line breaks. Like the header, every cell is separated by a pipe character "|". </p>
+<p><img alt="body" src="../../images/Initial-images/Markdown/tablebody.jpg" /></p>
+</li>
+<li>
+<p>Insert <strong>"&lt; br &gt;"</strong> when you need to force a line break in a specific place in your content.</p>
+<p><img alt="line break" src="../../images/Initial-images/Markdown/linebreak.jpg" /></p>
+</li>
+</ol>
+<h4 id="markdown-cheat-sheet-all-syntax"><a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet- All Syntax</a><a class="headerlink" href="#markdown-cheat-sheet-all-syntax" title="Permanent link">&para;</a></h4>
+<h4 id="emoji-cheat-sheet-complete-list"><a href="https://gist.github.com/rxaviers/7360908">Emoji Cheat Sheet- Complete list</a> <img alt="😃" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f603.svg" title=":smiley:" /><a class="headerlink" href="#emoji-cheat-sheet-complete-list" title="Permanent link">&para;</a></h4>
 <h2 id="getting-started"><strong>Getting Started</strong><a class="headerlink" href="#getting-started" title="Permanent link">&para;</a></h2>
 <p>The best way to get started with Markdown is to use it. </p>
 <p>The only thing you need to start is a markdown editor like <a href="../Visual-Studio-Code/">Visual Studio Code</a> and you are ready.</p>
@@ -760,7 +894,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: August 1, 2020
+      Last update: August 10, 2020
     
   </small>
 </div>
@@ -798,13 +932,13 @@
           </a>
         
         
-          <a href="../Jira-Service-Desk/" title="Jira Service Desk" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../Visual-Studio-Code/" title="Visual Studio Code" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Jira Service Desk
+                Visual Studio Code
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
