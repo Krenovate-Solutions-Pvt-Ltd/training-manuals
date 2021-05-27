@@ -15,7 +15,7 @@ G Suite provides access to a core set of apps that includes:
 * Google Sheets
 * Google Slides
 * Google Meet
-* Google Hangouts
+* Google Chat
 * Other Gsuite Apps
 ______
 ______
@@ -491,88 +491,92 @@ For more training videos and cheat sheet, visit the below link:
 ____
 ____
 
-## **Google Hangouts**
+## **Google Chat**
 
 ### **Introduction**
 
-Google Hangouts is the chat app built into the free version of Gmail, and it also offers video chat.
+Google Chat makes it easy to collaborate with your team in an organized way. Share and discuss files in Google Docs, Sheets, and Slides all in one place. Add Chat to your Gmail inbox and get all the features of Chat directly in Gmail.
 
-Hangouts syncs automatically across devices. If you start a Hangout on your computer, you can continue your chat on another device, like your phone.
+ You can use Chat to:
 
- You can use Hangouts to:
+*   Send a direct message
+*   Edit conversations
+*   Collaborate in dedicated rooms
+*   Collaborate seamlessly on content with Google Docs, Sheets, and Slides.
 
-*   Start a chat conversation.
-*   Make phone calls using wi-fi or data.
-*   Send text messages with your Google Voice.
-
-### **How to access Hangouts**
+### **How to access Chat**
 
 **From Gmail:**
 
-*   In the sidebar, click *Chat*.
-*   Add contacts and start messaging.
+*   On the top right corner, click -> **Google apps** icon.
+*   Click -> **Chat**
 
-![chat1](../images/Initial-images/Gsuite/chat1.jpg)
+![gchat](../images\Initial-images\Gsuite\gchat.jpg)
 
-
-**From GSuite Dashboard:**
-
-*   Go to gsuite.google.com
-*   Click on Google Hangouts
-
-![chat2](../images/Initial-images/Gsuite/chat2.jpg)
 
 **From Browser:**
 
-*   Go to hangouts.google.com.
+*   Go to chat.google.com
 *   Enter your Google Account information.
 *   Click Sign in.
 
-![chat3](../images/Initial-images/Gsuite/chat3.jpg)
+![gchat1](../images\Initial-images\Gsuite\gchat1.jpg)
 
+**Download & Install App**
+
+1.  Sign in to chat.google.com.
+2.  To install the app on your computer, try one of these methods:
+    -   If the app isn't already installed, a pop-up window opens to download the app.
+        -   Tip: This pop-up window might appear shortly after you first use Google Chat.
+    -   At the top right of Google Chrome, in the URL bar, click Install   and then Install.
+    -   At the top right of Google Chrome, click Customize and control Google Chrome "" and then Install Google Cha
 
 ### **Sending and accepting invites**
 
-*   Go to Hangouts
-*   Click on New Conversation
+*   Go to -> Chat
+*   Click on Search 
 *   Enter and select a name or email address
-*   Click Video call for video call, or start typing for a chat
+*   start typing for a chat
 
-![chat4](../images/Initial-images/Gsuite/chat4.jpg)
+![gchat2](../images\Initial-images\Gsuite\gchat2.jpg)
 
-### **Hangouts Group Chats**
+### **Create a Room**
 
-Hangouts group chat offers the privilege of conversing with many people at the same time. It gives easy access for sharing vital information, brainstorming and giving brief overviews of subject matters.
+With Chat, you can meet and brainstorm ideas with your team in rooms. 
+
+Conversations are organized into different conversation threads in rooms, so you and your team can discuss multiple subjects at the same time.
 
 Few benefits of Hangout Group chats are:
 
-*   You can send useful files and documents to many individuals at the same time.
-*   It gives options to edit messages, send messages in bold and italic formats.
-*   It can be used as a conference room by a team working together.
-*   You can start and join a video call also.
+*   Chat with co-workers
+*   Share files and other resources
+*   Work together on team projects
+*   Chat with people outside the organisation if they have a Google account.
+
 
 
 ### **FAQ's**
 
-1.  Get started with Hangouts:
+1.  Open Chat:
 
-    https://support.google.com/hangouts/?hl=en#topic=6386410
+    https://support.google.com/a/users/answer/9300318?hl=en&ref_topic=9296517#
 
-2.  Use and manage Hangouts:
+2.  Create direct messages and rooms:
 
-    https://support.google.com/hangouts/?hl=en#topic=6386417
+    https://support.google.com/a/users/answer/9300611?hl=en&ref_topic=9296517#
 
-3.  Hangouts Chrome extension & app:
+3.  Collaborate in Chat:
 
-    https://support.google.com/hangouts/?hl=en#topic=6386427
+    https://support.google.com/a/users/answer/9300319?hl=en&ref_topic=9296517#
 
-4.  Troubleshoot Hangouts:
+4.  Manage Chats:
 
-    https://support.google.com/hangouts/?hl=en#topic=6386432
+    https://support.google.com/a/users/answer/9300320?hl=en&ref_topic=9296517
 
-    For more training videos and cheat sheet, visit the below link:
 
-    [Google Hangouts Trainings & Help](https://support.google.com/a/users/answer/9282720?hl=en)
+    For more on Google CHat, visit the below link:
+
+    [Google Chat Trainings & Help](https://support.google.com/a/users/answer/9300511?hl=en)
 
 _____
 _____
