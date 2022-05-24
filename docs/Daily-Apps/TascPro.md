@@ -19,11 +19,11 @@ The successful integration of TascPro with Slack and Hubstaff, will enable the f
 
 4. Make sure to add all the people who are associated with the project.
 
-   ![img2](../images\Initial-images\TascPro\img2.png) 
+    ![img2](../images\Initial-images\TascPro\img2.png) 
 
 5. Add tascpro in the channel
 
-   ![img3](../images\Initial-images\TascPro\img3.png) 
+    ![img3](../images\Initial-images\TascPro\img3.png) 
 
 6. Click on `Add an App` and add TascPro app.
 
